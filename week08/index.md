@@ -1,62 +1,55 @@
 ---
 layout: week
 visible: true
-icon: undraw_forming_ideas_0pav.svg
+icon: undraw_Around_the_world_re_n353.svg
 notitle: true
 examples:
-  - filename: inClass_week08.ipynb
+  - filename: inClass_week07.ipynb
     type: ipynb
-    title: In Class Notebook, Week 8
-    description: In Class Notebook
-  - filename: prep_notebook_week09.ipynb
+    title: In class notebook
+    description: Placeholder for in class coding
+  - filename: prep_notebook_week08.ipynb
     type: ipynb
-    title: Prep Notebook, Week 8
-    description: Prep Notebook
-  - filename: prep_notebook_week08_fall2022
-    type: iodidePast
-    title: Previous Prep Starboard Notebook, Week 8
-    description: Prep Starboard Notebook, Fall 2022
-    link: https://starboard.gg/nb/nw1HAOm
-  - filename: prep_notebook_week09_fall2021
-    type: iodidePast
-    title: Prep Starboard Notebook, Week 9
-    description: Prep Starboard Notebook, Fall 2021
-    link: https://starboard.gg/nb/nKkNIOS
-  - filename: prep_notebook_week10
-    type: iodidePast
-    title: Previous class Iodide notebook
-    description: Prep Iodide Notebook, Spring 2021
-    link: https://alpha.iodide.io/notebooks/7112/
+    title: Prep Notebook, Week 7
+    description: Prep notebook for this week
+  - filename: spring2019_prep_notebook_week07_part1.ipynb
+    type: ipynb
+    title: spring2019_prep_notebook_week07_part1.ipynb
+  - filename: spring2019_prep_notebook_week07_part2.ipynb
+    type: ipynb
+    title: spring2019_prep_notebook_week07_part2.ipynb
+  - filename: spring2019_prep_notebook_week07_part3.ipynb
+    type: ipynb
+    title: spring2019_prep_notebook_week07_part3.ipynb
 data:
-  - filename: unemployment-across-industries.json
+  - filename: building_inventory.csv
     type: dataLink
-    title: Vega Unemployment Data
-    description: US Unemployment Data
-    link:  https://raw.githubusercontent.com/vega/vega-datasets/next/data/unemployment-across-industries.json
-  - filename: mobility.csv
+    title: Buildings dataset
+    description: Illinois buildings dataset
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/building_inventory.csv
+  - filename: Champaign GIS Repo
     type: dataLink
-    title: The Mobility dataset (online)
-    description: A dataset of USA "mobility" which (I <b>think</b> comes from a <a href="https://www.census.gov/library/working-papers/2018/adrm/CES-WP-18-40R.html">a large census study from 1989-2015</a>) and is collected in several places <a href="http://www.stat.cmu.edu/~cshalizi/uADA/15/hw/01/mobility.csv">including right here</a>.  Here "mobility" is referring to how easy it is for a person to move up in economic status (<a href="http://www.stat.cmu.edu/~cshalizi/uADA/15/hw/01/hw-01.pdf">more info can be found here</a>) based on factors like parental income, location, race, etc.
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/mobility.csv
+    title: Champaign GIS Repo
+    description: Various GIS datasets provided by Champaign
+    link: https://gis-cityofchampaign.opendata.arcgis.com/search?collection=Dataset 
+  - filename: Census GIS Repo
+    type: dataLink
+    title: Census GIS Repo
+    description: GIS data provided by the US Census
+    link: https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html 
 ---
 
-# Designing for the web with vega-lite & Altair & Streamlit
+# Maps, maps and more maps
 
-Using Altair create interactive visualizations in Python and an introduction to Streamlit.
+We will start thinking about maps & map projection, both in `bqplot` and `matplotlib` and with `geopandas`+`contextily`.  We'll continue this week with building dashboards of mappable data.
 
+<!-- ## Downloads
 
-**NOTE**: For Python, only a subset of libraries are supported. See ongoing list [here](https://github.com/iodide-project/pyodide/tree/master/packages).
+### Data:
 
-## Optional reading list
+ * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/ufo-scrubbed-geocoded-time-standardized-00.csv" download>The UFO Sitings Dataset (13Mb) - ufo-scrubbed-geocoded-time-standardized-00.csv</a>
+ * <a href='total_export.csv' download>State export data (8Kb) - total_export.csv</a>
+ * <a href="market_map_data.csv" download>Backup: Surgery Charges Dataset (37Mb) - market_map_data.csv</a>
+ * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week08/data/data_tohoku_norm_transpose.csv" download>Earthquake sensor data (59Mb) - data_tohoku_norm_transpose.csv</a>
+ * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week08/data/location.txt" download>Earthquake locations data (12Kb) - location.txt</a>
 
- 1. <a href="https://vega.github.io/vega-lite/docs/">vega-lite docs</a>
- 2. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encoding.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
- 3. <a href="https://serialmentor.com/dataviz/directory-of-visualizations.html">FDV, Ch. 5: Directory of visualizations</a>
-
- 
-## Extra Resources
- * [FiveThirtyEight](https://fivethirtyeight.com/)
- * [FiveThirtyEight datasets](https://github.com/fivethirtyeight/data)
- * [jsdelivr](https://www.jsdelivr.com/)
- * [vega-datasets](https://github.com/vega/vega-datasets/tree/master/data)
- 
