@@ -310,15 +310,17 @@ assignment (or in the case of emergencies, as soon as practicable).
 
 #### Assignment Late Policies
 
-We allow students to turn in *all* Homeworks up to a week late without penalty.  If you need to “use” one of these late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment. **Please note:** Once you submit your extension request wait until you receive a confirmation email from the instructional team (generally *after* the assignment due date) before submitting your assignment.  If you submit your assignment before receiving this email, it will be marked late even if you have requested an extension.
+We allow students to turn in *all* Homeworks up to a week late without penalty.  If you need to “use” one of these late homeworks use the "Extension Request" tool for each assignment in that week's module and specify that you would like to use an extension.  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use an extension.  You will then have one extra week to submit this assignment. **Please note:** Once you submit your extension request wait until you receive a confirmation email from the instructional team (generally *after* the assignment due date) before submitting your assignment.  If you submit your assignment before receiving this email, it will be marked late even if you have requested an extension.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date. 
 
- No extensions can be applied to Labs, Quizzes, or any parts of the Final Project.
+No extensions can be applied to Labs, Quizzes, or any parts of the Final Project.
 
 Late policies for homeworks not on extension include: 10% off for up to 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.
 
 Late policies for labs will be: 5% off for up to 1 day late, 10% for up to 3 days late, 20% for up to 4 days late, 30% for up to 5 days late. There are no extensions for Labs.
 
-Quizzes, Extra Credit assignments, and the Final Project follow homework late policies: 10% off for up to 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.  There are no extensions for any of these assignments.
+Quiz late policies follow homework late policies: 10% off for up to 1 day late, 20% off for 2 days late, 30% off for 3 days late.
+
+Extra Credit assignments, and all parts of Final Project Part 3 (Part 3.1, 3.2, 3.3, 3.4, 3.5) cannot be turned in late (these are due toward the end of class so there is no "wiggle" room for late assignments).  Extra credit assignments and *all* parts of the Final Project do not have extensions.
 
 **Notes if adding the course late:**
 * There will be NO late adds after 10th day
