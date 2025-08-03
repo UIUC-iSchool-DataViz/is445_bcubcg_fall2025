@@ -50,7 +50,7 @@ wrap-up session at the end.
 Students are expected to have laptops with them, as well as access to Python
 installations (we will go over how to setup the correct packages when necessary), and will be encouraged to participate in class.  Homework will
 be assigned and collected through
-other methods specified at time of submission like Moodle.
+other methods specified at time of submission like Canvas.
 
 The central themes of the course are:
 
@@ -101,12 +101,22 @@ There is no required textbook for this course.
 A list of Python libraries week-by-week and tips on how to install them <a href="https://uiuc-ischool-dataviz.github.io/is445_spring2021/week01/installation_instructions">can be found by clicking this link</a>.
 -->
 
-**Optional** textbook [Visualization Analysis and Design by Tamara Munzner](https://www.amazon.com/gp/product/1466508914/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).  You can find a lot of the concepts from this textbook on [the books webpage](https://www.cs.ubc.ca/~tmm/vadbook/) and the [associated lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides).
+### Optional Textbooks
+The textbook [Visualization Analysis and Design by Tamara Munzner](https://www.amazon.com/gp/product/1466508914/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) is referenced for some optional readings below.  You can find a lot of the concepts from this textbook on [the books webpage](https://www.cs.ubc.ca/~tmm/vadbook/) and the [associated lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides).
 
 As the course progresses, a list of recommended readings will be generated for
 each class.  These will be included in the course materials repository, and
 students are encouraged to fork that repository and issue pull requests to add
 suggested readings.
+
+### Optional Installations
+
+We will be working mostly from cloud-hosted JupyterLab and VSCode instances, with a setup of locally-hosted (on your own computer) of Ruby and Jekyll in the second half of the course.
+
+If you would like to install a local version of the Python packages you can follow the <a href="{{ site.baseurl }}/week01/installation_instructions.html">OPTIONAL Instructions in Week 1</a>.  Note that while the instructional team will endeavor to help students install these packages locally, we prioritize support for the cloud-based infrastructure. *It is up to you to ensure the version of packages you install locally are the same as those on the cloud-based platform.*
+
+Once the local conda environment is installed, you can then download and install [VSCode](https://code.visualstudio.com/download) for use in the second half of the class.
+
 
 # Writing Resources
 The iSchool Writing Resources is the in-house writing support team for graduate students at the iSchool.  They are here to help you with your writing and help you feel more comfortable and confident in your skills. The writing consultants are not professors or evaluators. They simply know the struggles of graduate and undergraduate-level writing and want to help you learn how to succeed and improve your writing skills. The iSchool writing consultants can help you with every step of the writing process. For detailed information on our services please visit our website:
@@ -219,72 +229,9 @@ The breakdown of your grade will be:
    
 
 
-
-<!--
-There are several homework assignments which are **required** to pass the course:
- * Any installation/package test assignments (Part of Homework #1, Homework #5, and Homework #7) with a grade of 85% or better on *each* assignment portion
- * Final-project preparatory assignments: Homework #6, *either* Homework #9 *or* Homework #10 with a grade of 50% or better on *each* assignment portion
-
- 
-Failure to submit these assignments above these grading thresholds will automatically lead to a failing grade in the course.
-
-**In summary, your grades consist of:**
-
-| 50% | Standard assignments in prose or code form (50% is the MAX grade, even with extra credit)
-| 20% | Weekly visualization labs
-| 30% | Final project
-
-
-
-
-Assignments in this course will be a mixture of coding/visualization work and
-written work.  These two may not be distinct assignments; students will be
-asked to describe their code and justify choices for making decisions with
-respect to visualizations.
-
-Students are expected, unless otherwise instructed, to be the principal authors
-of their code.  This does not mean they may not investigate resources such as
-StackOverflow, package documentation, etc; however, they *must* cite when
-resources (especially StackOverflow and other "recipe" sites) are utilized.
-
-Assignments will take two forms, and will be given at the end of each class.
-Students will have until the following class to turn these in; assignments will
-be collected electronically.
-
- * The first type of assignment will be a written document, constituting 
-   either a brief literature review or an analysis of a visualization or
-   set of visualizations.  The parameters for these assignments will be given
-   during class, but will typically involve a critique of a visualization,
-   including citing relevant works in the visualization literature.
- * The second type of assignment will be a hands-on, code-based assignment.
-   Students will be provided either a dataset *or* a class of datasets from
-   which they can choose, and construct one or multiple mechanisms of drawing
-   information out of this visually.  These will be submitted in the form of
-   Jupyter notebooks.  Each visualization must be accompanied by narrative
-   description from the student describing why design decisions were made.
-
-The submission process for homeworks will be described by example during class
-before any homeworks are to be submitted.
-
-Submissions will be in PDF and/or .ipynb (Jupyter notebook) format, and, when 
-appropriate, a datafile needed to run the notebook file.  If coding is 
-required for the assignment, you will *not* get full points if you do not 
-submit the notebook file.  If the code requires a dataset and this is not 
-included in your submission you will not get full credit.  Files should be 
-uploaded individually, no *.zip files will be accepted.
-
-Each assignment will be based on "correctness" and the narrative description of
-the process.  "Correctness" in this case indicates that the code runs without
-issue, results are produced, and each component of the assignment is completed.
-The narrative description of the process will be graded on grammar minimally and
-more so on completeness and thoughtfulness.
-
--->
-
 ### Grading Policy
 
-All assignments are required for all students, aside from one homework (lowest HW grade will be dropped). 
-<!-- Note that the Syllabus Quiz is in the homework grading category, but will *not* be droppable. -->
+All assignments are required for all students, aside from one homework (lowest HW grade will be dropped, with some caveats, see above). 
 Completing all assignments is
 not a guarantee of a passing grade.  You must do homework, visualization labs, quizzes, and final project to 
 receive a passing grade. Late or incomplete assignments will not be given full credit
@@ -341,10 +288,14 @@ Jill Naiman's background is in theoretical and computational astrophysics with a
 
 # Writing and Bibliographic Style Resources
 The campus-wide Writers Workshop provides free consultations. For more
-information see <http://www.cws.illinois.edu/workshop/> The iSchool
+information see <https://writersworkshop.illinois.edu/> for more info.
+
+<!--
+<http://www.cws.illinois.edu/workshop/> The iSchool
 has a Writing Resources Moodle site
 <https://courses.ischool.illinois.edu/course/view.php?id=1705> and
 iSchool writing coaches also offer free consultations.
+-->
 
 # Disruptive behavior
 Behavior that persistently or grossly interferes with classroom activities is considered disruptive behavior and may be subject to disciplinary action. Such behavior inhibits other students’ ability to learn and an instructor’s ability to teach. A student responsible for disruptive behavior may be required to leave class pending discussion and resolution of the problem and may be reported to the Office for Student Conflict Resolution (https://conflictresolution.illinois.edu; conflictresolution@illinois.edu; 333-3680) for disciplinary action.
@@ -436,7 +387,7 @@ is expected.
 
 ### Email/Slack Policies and Turn-around times
 
-We aim to respond to Slack messages in the main channel within 24 business hours and email within 3 business days.  Please note that personal Slack messages are treated as emails and turn around times will be within 3 days (though we will make every effort to respond sooner than that).  Please do not use Slack for any questions about grades, or other personal queries -- email is the appropriate venue for these questions.  Do not post working code or solutions of any kind on Slack publically.
+We aim to respond to Slack messages in the main channel within 24 business hours and email within 3 business days.  Please note that personal Slack messages are treated as emails and turn around times will be within 3 days (though we will make every effort to respond sooner than that).  Please do not use Slack for any questions about grades, or other personal queries -- email is the appropriate venue for these questions.  Do not post working code or solutions of any kind on Slack publicly.
 
 
 ## Emergency Response: Run, Hide, Fight
