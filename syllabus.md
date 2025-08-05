@@ -238,6 +238,7 @@ receive a passing grade. Late or incomplete assignments will not be given full c
 unless the student has contacted the instructor prior to the due date of the
 assignment (or in the case of emergencies, as soon as practicable).
 
+Please note that student progress will only be discussed with the student and their advisor as needed.
 
 **Grading Scale:**
 
