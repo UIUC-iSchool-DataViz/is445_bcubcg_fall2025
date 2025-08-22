@@ -611,6 +611,7 @@ Map4 - percentage of votes by county
 
 Map5 - percentage of votes by county, weighted by population
 
+
 ---
 
 ## Getting started in Python
