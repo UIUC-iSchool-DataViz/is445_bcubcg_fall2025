@@ -5,9 +5,8 @@ description: >-
   The syllabus for the course, along with discussions about "what"
   visualizations are, and how to orient yourself in the course.
 
-date: 2025-01-22
+date: 2025-08-25
 ---
-
 
 <!-- JPN: also check links to all external images -->
 
@@ -19,13 +18,19 @@ Please see the Land Acknowledgment in the Syllabus.
 Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
 
 notes:
-we are on a land-grant institution, please see the link on the chancellors page for more info about thi
+we are on a land-grant institution, please see the link on the chancellors page for more info about this
 
 ---
 
 ## Absences/Emergencies/COVID-19 Policies
 
-Please see the statement about policies related to Emergencies/COVID-19 at the [on the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/syllabus.html).
+Please see the statement about policies related to Emergencies/Illness on [the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/syllabus.html).
+
+<!-- <a href={{site.url}}/{{site.baseurl}}/"syllabus.html">the Syllabus</a>.
+-->
+<!--
+[on the Syllabus](https://uiuc-ischool-dataviz.github.io/{{baseurl}}/syllabus.html).
+-->
 
 ---
 
@@ -33,10 +38,10 @@ Please see the statement about policies related to Emergencies/COVID-19 at the [
 
 <!-- JPN, update! -->
 
-~60 for this course!
+~90 for this course!
 
 **Strategies:**
- * a total of >7 hours of office hours (Prof+TA's) every week 
+ * a total of >10 hours of office hours (Prof+TA's) every week 
  * utilize Slack for general question/answer
  * group options for final project
 
@@ -61,12 +66,18 @@ finally, we have several assignments that can be turned in as a group to allow f
 
 
 Jill P. Naiman - `jnaiman@illinois.edu`
- * Office Hours: Tuesdays, 10:30am-12pm (online)
+ * Office Hours: TBD (online)
 
 TA: Guangchun Zheng  - `gzheng6@illinois.edu`
- * Office Hours: Mondays 8am-10am, Thursdays 4-6pm, Fridays 5-7pm (online)
+ * Office Hours: TBD (online)
 
-Course website: https://uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/
+TA: Yiliu Tang - `yiliut2@illinois.edu`
+ * Office Hours: TBD (online)
+
+TA: Gaozheng Liu - `gl11@illinois.edu`
+ * Office Hours: TBD (online)
+
+Course website: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/
 
 
 Online -- access through Zoom Meetings.
@@ -87,15 +98,17 @@ Now, the website!
 
 ---
 
+<!-- JPN -- update! -->
+
 ## In summary: where things will be located:
 
- * Canvas: https://canvas.illinois.edu/courses/52731 - where the grades and assignments links will be posted
+ * Canvas: https://canvas.illinois.edu/courses/58974 - where the grades and assignments links will be posted
  
- * PrairieLearn: https://us.prairielearn.com/pl/course_instance/170200 - where assignments will be completed
+ * PrairieLearn: https://us.prairielearn.com/pl/course_instance/187129 - where assignments will be completed
 
- * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/ - where lecture slides, notebooks, data & general course info will live.
+ * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/ - where lecture slides, notebooks, data & general course info will live.
 
- * Slack: https://is445obuobgsp-hnm6590.slack.com/ (workspace name is is445-obuobg-spring2025) - the best place to ask questions in a `#homeworkX-questions` channel (or the `#general` channel for general questions)
+ * Slack: https://is445-bc-fa25.slack.com/ (workspace name is is445-bc-fa2025) - the best place to ask questions in a `#homeworkX-questions` channel (or the `#general` channel for general questions)
  
 notes:
 
@@ -217,7 +230,7 @@ about these types of data, and how we approach visualizing them.
 
 <!-- JPN, update -->
 
-## In a group of ~4-5 people (breakout groups)
+## In a group of ~4-5 people 
 
 Visualize the results of your group's collective "data".
 
@@ -228,9 +241,11 @@ Visualize the results of your group's collective "data".
 
 Don't forget to say hi to each other!
 
+<!--
 Miro Board link: https://miro.com/app/board/uXjVLq47Pvc=/?share_link_id=451051165669
 
 **You must be signed in with your @illinois.edu address.**
+-->
 
 
 notes:
@@ -256,13 +271,13 @@ We have to do it!
 ## Syllabus
 
  * Week 1 (Today) - Introduction
- * Week 2 - Data Storage and Operations
- * Week 3 - Types of Viz and Choosing Colors
- * Week 4 - Beginning interactivity
- * Week 5 - Continuing interactivity with bqplot
- * Week 6 - More with dashboards & Map Viz (**this class might be "flipped"**)
- * Week 7 - Maps, maps and more maps
- * Week 8 - Intro to Vega-lite/Altair
+ * Week 2 -- Labor Day Holiday! (no classes)
+ * Week 3 - Data Storage and Operations
+ * Week 4 - Types of Viz and Choosing Colors
+ * Week 5 - Beginning interactivity
+ * Week 6 - Continuing interactivity with bqplot
+ * Week 7 - More with dashboards & Map Viz (**this class might be "flipped"**)
+ * Week 8 - Maps, maps and more maps
  
 notes:
 This is a rough syllabus!  These are many of the topics we will cover, but
@@ -278,7 +293,6 @@ We might start getting into javascript earlier, depending on how we are doing.
 
 **be aware**: that we are trying out some "flipped" classes for this semester around the harder assignments so folks can get extra help -- this will happen around Week 6 and the final projects.  This just means that you are expected to watch the recording *before* the class and then come to the class with questions about the assignment. 
 
-~~Also, I will be out of town during Week 6 so we might move some due dates of assignments around and/or have extra office hours that week with the TA's~~
 
 
 ---
@@ -287,12 +301,13 @@ We might start getting into javascript earlier, depending on how we are doing.
 
 ## Syllabus, cont
 
- * Week 9 - Spring break, no class!
+ * Week 9 - Intro to Vega-lite/Altair
  * Week 10 - Viz Audience; Intro to Jekyll
  * Week 11 - More Jekyll+Altair+vega-lite things
- * Week 12 - Intro to Streamlit
+ * Week 12 - Intro to Streamlit <-- Prof. Jill out of town, different course modality
  * Week 13 - Streamlit Apps in HuggingFace
- * Week 14 - A few more Streamlit+HuggingFace things; Publishing Viz
+ * Week 14 - Fall break! (no classes)
+ * Week 15 - A few more Streamlit+HuggingFace things; Publishing Viz
  * Week 15 - Scientific Viz & AVL Guest lecture (**partially flipped class**)
  * Week 16 - Network Visualization & Word clouds (**flipped class**)
 
@@ -300,6 +315,9 @@ notes:
 Toward the end of class we are going to have a slightly more free-form set of
 discussion points.  Your final projects will be somewhat open-ended, requiring
 more group work and collaboration than the preceding assignments.
+
+Also, I will be out of town during Week 12 so we might move some due dates of assignments around and/or have extra office hours that week with the TA's
+
 
 ~~Here the weeks get a little off between the in-person and online classes because of the election day holiday and this is also reflected in the Canvas page.  We'll be working on final project stuff then, so it shouldn't be an issue too much.~~
 
@@ -490,9 +508,81 @@ final reminder -- some of the classes will be flipped!
 
 ---
 
+## Assignment types & Grading
+
+ * Quizzes 
+ * Labs
+ * Homeworks
+ * Final Project
+
+notes:
+ in this class we'll have a variety of assignments and each of these has a slightly different purpose
+
+---
+
+## Assignment types & Grading
+
+ * Quizzes -- lecture materials & course policies
+ * Labs
+ * Homeworks
+ * Final Project
+
+notes:
+quizzes are basically quick checks on concepts we cover in class & also periodic reminders about course policies
+
+basically a "did you access the lecture in class, zoom or recording" for this week
+
+These are due before the next class because we'll be building on material week by week
+
+---
+
+## Assignment types & Grading
+
+ * Quizzes -- lecture materials & course policies
+ * Labs -- autograded Python (mostly) coding exercises for skills practice & assignment setup
+ * Homeworks
+ * Final Project
+
+notes:
+labs will be a way for you to practice coding skills you'll need for the course
+
+you get as many chances to submit parts of the lab as you want before the due date, so it is entirely possible to get 100% on this portion of the class
+
+there will also be coding-adjacent things, related to setting up your web-hosted pages for your data viz for later assignments & your final project closer to the 2nd half of the course
+
+---
+
+## Assignment types & Grading
+
+ * Quizzes -- lecture materials & course policies
+ * Labs -- autograded Python (mostly) coding exercises for skills practice & assignment setup
+ * Homeworks -- manually graded, open ended assignments
+ * Final Project
+
+notes:
+the Homeworks are a way for you to combine the concepts learned in class and the skills you practice in the Labs into a more open ended data visualization assignment
+
+in these assignments, things like aesthetics are important, and we expect more polished submissions than what are in Labs
+
+---
+
+## Assignment types & Grading
+
+ * Quizzes -- lecture materials & course policies
+ * Labs -- autograded Python (mostly) coding exercises for skills practice & assignment setup
+ * Homeworks -- manually graded, open ended assignments
+ * Final Project -- summative, open-ended, student-lead, web-hosted data visualization project
+
+notes:
+the Final Project combines everything you learn in class with the concepts and skills from all the rest of the assessments into your polished, web-hosted final project which is a "full" data visualization "data journalism-style" submission
+
+the idea here is that this will be the start of your online "portfolio" of work that you can "wow" possible employers, or friends and family with
+
+---
+
 ## Grading
 
- * 40% Standard assignments in prose or code form (see syllabus for some details about "required" assignments)
+ * 40% Homeworks - standard assignments in prose or code form (see syllabus for some details about "required" assignments)
  * 25% Lab assignments which allow for "real time" checking of answers and feedback
  * 5% Quizzes on the material covered in class
  * 30% Final project ([teaser trailer \#1](https://jnaiman.github.io/online_cv_public_demo/), [teaser trailer \#2](https://huggingface.co/spaces/jnaiman/my_test_demo))
@@ -515,7 +605,7 @@ group project that touches on coding as well as visual design.
 
 ## Grading
 
- * 40% Standard assignments in prose or code form (see syllabus for some details about "required" assignments)
+ * 40% Homeworks - standard assignments in prose or code form (see syllabus for some details about "required" assignments)
  * 25% Lab assignments which allow for "real time" checking of answers and feedback
  * 5% Quizzes on the material covered in class
  * 30% Final project ([teaser trailer \#1](https://jnaiman.github.io/online_cv_public_demo/), [teaser trailer \#2](https://huggingface.co/spaces/jnaiman/my_test_demo))
@@ -540,7 +630,7 @@ and those that are considered "prepratory" for the final project
  * Two extra credit options, assigned toward end of class
  * 40% of grade (maximum, including extra credit), lowest score dropped except for required assignments
  * A total of 6 Homeworks in the course
- * Generally due on Wednesdays before class (but always double check the due dates!)
+ * Generally due on Wednesdays (but always double check the due dates!)
  
 notes:
 Just a few more details about homework type assignments
@@ -555,7 +645,7 @@ Just a few more details about homework type assignments
  * Can be attempted multiple times before the due date 
  * 25% of grade, no assignments dropped
  * 8 Labs in the course
- * Generally due on Wednesdays before class (but always double check the due dates!)
+ * Generally due on Wednesdays (but always double check the due dates!)
 
  
 notes:
@@ -572,7 +662,7 @@ We will also have time in class, typically toward the end of class, for you to w
  * Graded automatically on PrairieLearn
  * Can be attempted multiple times *with decreasing scores*
  * ~10 Quizzes in the course 
- * Generally due on Wednesdays before class (but always double check the due dates!)
+ * Generally due on *Mondays* before class (but always double check the due dates!)
  
 notes:
 Quizzes are meant to be quick checks of the material covered in class
@@ -590,7 +680,7 @@ You can repeat quiz questions multiple times, however you will be peanalized for
  * Graded automatically on PrairieLearn
  * Can be attempted multiple times *with decreasing scores*
  * ~10 Quizzes in the course 
- * Generally due on *Wednesdays* (but always double check the due dates!)
+ * Generally due on *Mondays* before class (but always double check the due dates!)
 
 
  **If you see a 0% on PrairieLearn until a certain date this means you can "preview" the assignment, but should not submit it for credit (for Quizzes, this means don't open it yet!).**
@@ -608,8 +698,10 @@ don't open quizzes before the 100% date! it will start the quiz timer and you wo
 
 ## Due dates
 
+<!-- JPN come and change -->
+
 * Homeworks/Labs -- Wednesdays (generally)
-* Quizzes -- Wednesdays (generally)
+* Quizzes -- Mondays (generally)
 
 Canvas and PrairieLearn due dates *should* be in sync, but when in doubt *follow the PrairieLearn due dates*.
 
@@ -619,7 +711,7 @@ Canvas and PrairieLearn due dates *should* be in sync, but when in doubt *follow
 
 See the course syllabus: 
 
-https://uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/syllabus.html
+https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/syllabus.html
 
 notes:
 These are TOTally optional - more on that in a minute.
@@ -693,10 +785,10 @@ what they represent, not because they are the only paths to success.
 We will be sharing a slack channel with the in-person class, so feel free to
 converse with them as well!
 
- * Team channel at `https://is445obuobgsp-hnm6590.slack.com/` (workspace name is is445-obuobg-spring2025)
+ * Team channel at `https://is445-bc-fa25.slack.com/` 
    * `#general` : General announcements, place to ask questions
    * `#random` : see a cool viz you want to share?  This is the place!
-   * `#introduce-yourself` : where you want to "say hi" for Homework #1
+   * `#introductions` : where you want to "say hi" for Homework #1
    * `#ASSIGNMENTX-questions` : each assignment will have [a channel](https://slack.com/help/articles/205239967-Join-a-channel) for asking questions specific to that assignment
 
 ---
@@ -743,7 +835,7 @@ personal messages on slack will be treated as email and we'll get back to you wi
 
 ## How do I access Slack?
 
- * Your @illinois email should be added, just go to: [is445-obuobg-spring2025](https://is445obuobgsp-hnm6590.slack.com/)
+ * Your @illinois email should be added, just go to: [is445-bc-fa25.slack.com](https://is445-bc-fa25.slack.com/)
  * Send me an email with _your_ email
 
 ---
@@ -752,8 +844,8 @@ personal messages on slack will be treated as email and we'll get back to you wi
 
 <!-- JPN: check all these links -->
 
- * Course repo is at [UIUC-iSchool-DataViz/is445_obuobg_spring2025/](https://github.com/UIUC-iSchool-DataViz/is445_obuobg_spring2025/) 
- * Automatically built to [uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/](https://uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/)  
+ * Course repo is at [UIUC-iSchool-DataViz/is445_bcubcg_fall2025/](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2025/) 
+ * Automatically built to [uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/)  
 
 notes:
 All the materials for this course will be stored in github, and are available
@@ -843,23 +935,5 @@ a few other suggestions about how to do well in this course
 
 # We are done with bureaucracy!
 
----
 
-<br />
-<br />
-<br />
-
-# Pause to check out Homework \#1
-
-Let's look at:
-1. How to log onto Slack
-1. The syllabus quiz
-1. The intake survey
-
-notes:
-**only do subset!**
-
-at this stage - go over the "log onto Slack", "syllabus quiz" and "intake survey" parts of the assignment
-
-we will get to the Python notebook "Introduction to PrairieLearn" sections after a break and some more material
 

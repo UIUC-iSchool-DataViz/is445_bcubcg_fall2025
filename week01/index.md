@@ -39,9 +39,7 @@ with our data.
  
 ## Installation instructions
 
-We will be using several Python packages that you need to install.  
-
-#### [Please follow these installation instructions to install the necessary packages](installation_instructions).
+We will be using several Python packages that will be hosted on the PrairieLearn platform.  You do not need to install anything locally at this stage, but if you want to you can follow the [OPTIONAL installation instructions](installation_instructions).  Note that we will try to help you install locally, but the majority of support will be for students using the PrairieLearn platform.  Additionally, packages you install locally may provide different interfaces than those on PrairieLearn -- *it is your responsibility to ensure your code works on your PrairieLearn submission.*
 
 ## Optional Reading List (See syllabus for acronyms)
 

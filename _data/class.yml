@@ -22,7 +22,7 @@ course:
 urls:
   -
     name: Slack
-    url: TBD
+    url: https://is445-bc-fa25.slack.com
   - 
     name: Canvas
     url: https://canvas.illinois.edu/courses/58974
