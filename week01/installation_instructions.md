@@ -8,7 +8,11 @@ description: Install necessary packages for this class
 
 Please note as of Fall 2023, all assessments will be completed on the PrairieLearn system.  These instructions remain in case you want to install packages locally but please note we will **NOT** be supporting this installation process and you will be "on your own" to get this to work on your machine (for example, if you have a space in your username on your computer, conda is going to give you issues that you need to sort out on your own).
 
-Additionally, if you are familiar with docker, you can access the docker image for the workspaces at `jnaiman/workspace-is445`. 
+### Other ways to install locally
+1. If you are familiar with docker, you can access the docker image for the workspaces at `jnaiman/workspace-is445`. 
+1. To install via a conda env yaml file, you have 2 options:
+  1. This [environment_pl.yml](env_files/environment_pl.yml) file is packages as installed on PrairieLearn (preferred)
+  1. This [environment_local.yml](env_files/environment_local.yml) file is my local installation of packages
 
 <hr />
 <hr />

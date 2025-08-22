@@ -270,6 +270,8 @@ Quiz late policies follow homework late policies: 10% off for up to 1 day late, 
 
 Extra Credit assignments, and all parts of Final Project Part 3 (Part 3.1, 3.2, 3.3, 3.4, 3.5) cannot be turned in late (these are due toward the end of class so there is no "wiggle" room for late assignments).  Extra credit assignments and *all* parts of the Final Project do not have extensions.
 
+**NOTE that assignments may be due at different times of the week (e.g., quizzes and homeworks may be due on different days).**
+
 **Notes if adding the course late:**
 * There will be NO late adds after 10th day
 * Students add the course after the start of class are responsible for submitting all assignments on time (even if assigned before they have added the class) -- this includes requesting a homework extension using the Extension Tool, if applicable  
@@ -278,7 +280,7 @@ Extra Credit assignments, and all parts of Final Project Part 3 (Part 3.1, 3.2, 
 
 # About Your Instructor
 
-Jill Naiman's background is in theoretical and computational astrophysics with a current research emphasis on scientific data visualization and the digitization of historical scientific images and text.  In addition to her position as Teaching Faculty at the iSchool, she is also currently a Visiting Scholar at the Advanced Visualization Lab at the National Center for Supercomputing Applications.  She is currently involved in projects related to increasing access to industry-standard special effects software for scientists - more info can be found <a href="http://ytini.com">here</a> and <a href="http://astroblend.com">here</a>.  Information about her astrophysical research and outreach efforts can be found <a href="http://astronaiman.com">here</a>.
+Jill Naiman's background is in theoretical and computational astrophysics with a current research emphasis on scientific data visualization and the digitization of historical scientific images and text.  In addition to her position as Teaching Faculty at the iSchool, she is also currently a Faculty Affiliate at the Advanced Visualization Lab at the National Center for Supercomputing Applications.  She is currently involved in projects related to increasing access to industry-standard special effects software for scientists - more info can be found <a href="http://ytini.com">here</a> and <a href="http://astroblend.com">here</a>.  Information about her astrophysical research and outreach efforts can be found <a href="http://astronaiman.com">here</a>.
 
 # Library Resources
 
