@@ -66,7 +66,7 @@ finally, we have several assignments that can be turned in as a group to allow f
 
 
 Jill P. Naiman - `jnaiman@illinois.edu`
- * Office Hours: TBD (online)
+ * Office Hours: Thursdays 11am-12:30pm (online)
 
 TA: Guangchun Zheng  - `gzheng6@illinois.edu`
  * Office Hours: TBD (online)
