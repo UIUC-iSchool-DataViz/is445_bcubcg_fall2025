@@ -108,7 +108,7 @@ Now, the website!
 
  * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/ - where lecture slides, notebooks, data & general course info will live.
 
- * Slack: https://is445-bc-fa25.slack.com/ (workspace name is is445-bc-fa2025) - the best place to ask questions in a `#homeworkX-questions` channel (or the `#general` channel for general questions)
+ * Slack: [https://is445-bc-fa25.slack.com/](https://join.slack.com/t/is445-bc-fa25/shared_invite/zt-3bj21az1i-eKZKeM4pyIMaqLU3vebjTA) (workspace name is is445-bc-fa2025) - the best place to ask questions in a `#homeworkX-questions` channel (or the `#general` channel for general questions)
  
 notes:
 
@@ -785,7 +785,7 @@ what they represent, not because they are the only paths to success.
 We will be sharing a slack channel with the in-person class, so feel free to
 converse with them as well!
 
- * Team channel at `https://is445-bc-fa25.slack.com/` 
+ * Team channel at [`https://is445-bc-fa25.slack.com/`](https://join.slack.com/t/is445-bc-fa25/shared_invite/zt-3bj21az1i-eKZKeM4pyIMaqLU3vebjTA) 
    * `#general` : General announcements, place to ask questions
    * `#random` : see a cool viz you want to share?  This is the place!
    * `#introductions` : where you want to "say hi" for Homework #1
@@ -835,7 +835,7 @@ personal messages on slack will be treated as email and we'll get back to you wi
 
 ## How do I access Slack?
 
- * Your @illinois email should be added, just go to: [is445-bc-fa25.slack.com](https://is445-bc-fa25.slack.com/)
+ * Your @illinois email should be added, just go to: [is445-bc-fa25.slack.com](https://join.slack.com/t/is445-bc-fa25/shared_invite/zt-3bj21az1i-eKZKeM4pyIMaqLU3vebjTA)
  * Send me an email with _your_ email
 
 ---
