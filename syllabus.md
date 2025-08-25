@@ -183,7 +183,8 @@ table th:nth-of-type(3) {
 
 ## General Assignment Info
 Assignments in this course will be a mixture of coding/visualization work and
-written work.  These two may not be distinct assignments; students will be
+written work, supplemented with a few quizzes on course material.  
+These two may not be distinct assignments; students will be
 asked to describe their code and justify choices for making decisions with
 respect to visualizations.
 
@@ -200,6 +201,8 @@ more so on completeness and thoughtfulness.
 
 The submission process for homeworks will be described by example during class
 before any homeworks are to be submitted.
+
+**NOTE:** if you join the course late *you* are responsible for getting all assignments in on and/or reaching out to the instructor *as soon as you join the class*.  Late requests for assignment submission after joining will not be accepted (i.e., if you are worried about a due date, reach out to the instructor the day you add the class).
 
 
 ## Assignment Details
