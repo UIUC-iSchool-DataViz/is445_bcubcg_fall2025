@@ -69,7 +69,7 @@ Jill P. Naiman - `jnaiman@illinois.edu`
  * Office Hours: Thursdays 11am-12:30pm (online)
 
 TA: Guangchun Zheng  - `gzheng6@illinois.edu`
- * Office Hours: TBD (online)
+ * Office Hours: Tuesdays 8-10:30am and Fridays 3-5:30pm (online)
 
 TA: Yiliu Tang - `yiliut2@illinois.edu`
  * Office Hours: TBD (online)
