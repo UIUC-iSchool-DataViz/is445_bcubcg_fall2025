@@ -72,7 +72,7 @@ TA: Guangchun Zheng  - `gzheng6@illinois.edu`
  * Office Hours: Tuesdays 8-10:30am and Fridays 3-5:30pm (online)
 
 TA: Yiliu Tang - `yiliut2@illinois.edu`
- * Office Hours: TBD (online)
+ * Office Hours: Tuesdays 1-4pm, Wednesdays 8am-10am (online)
 
 TA: Gaozheng Liu - `gl11@illinois.edu`
  * Office Hours: TBD (online)
