@@ -43,7 +43,7 @@ We will be using several Python packages that will be hosted on the PrairieLearn
 
 ## Optional Reading List (See syllabus for acronyms)
 
- 1. VAD, Ch. 1: What's Viz, and Why Do It? 
- 2. <a href="https://serialmentor.com/dataviz/introduction.html">FDV, Ch. 1: Introduction</a> & <a href="https://serialmentor.com/dataviz/proportional-ink.html">FDV, Ch. 17: The principle of proportional ink</a> 
- 3. <a href="https://medium.com/multiple-views-visualization-research-explained/same-data-multiple-perspectives-curse-of-knowledge-in-visual-data-communication-d827c381f936">Same Data, Multiple Perspectives</a> 
- 4. [Intro to Jupyter Notebook Video](https://www.youtube.com/watch?v=3C9E2yPBw7s)
+1. VAD, Ch. 1: What's Viz, and Why Do It? 
+2. <a href="https://clauswilke.com/dataviz/introduction.html">FDV, Ch. 1: Introduction</a> & <a href="https://clauswilke.com/dataviz/proportional-ink.html">FDV, Ch. 17: The principle of proportional ink</a> 
+3. <a href="https://medium.com/multiple-views-visualization-research-explained/same-data-multiple-perspectives-curse-of-knowledge-in-visual-data-communication-d827c381f936">Same Data, Multiple Perspectives</a> 
+4. [Intro to Jupyter Notebook Video](https://www.youtube.com/watch?v=3C9E2yPBw7s)
