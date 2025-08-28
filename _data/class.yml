@@ -14,14 +14,19 @@ tas:
     email: yiliut2@illinois.edu
     office: online
     office_hours: Tuesdays 1-4pm, Wednesdays 8am-10am
+  -
+    name: Gaozheng Liu 
+    email: gl11@illinois.edu
+    office: online
+    office_hours: Mondays 4-6pm
 
 course:
   name: Data Visualization
   number: IS445
   semester: Fall 2025
   section: BCU-BCG
-  location: TBD
-  time: TBD
+  location: see Canvas
+  time: see Canvas
   credit_hours: 4
 urls:
   -
