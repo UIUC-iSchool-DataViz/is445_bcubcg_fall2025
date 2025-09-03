@@ -3,7 +3,7 @@ title: Lecture 2.1 - A bit of Bureaucracy; Data storage & Operations, Pandas
 layout: lecture
 description: >-
  We'll look at the basics of tabular data and rendering of images.
-date: 2023-08-29
+date: 2025-09-08
 ---
 
 <br>
@@ -17,12 +17,18 @@ date: 2023-08-29
 ## How to get help
 
 Jill P. Naiman - `jnaiman@illinois.edu`
- * Office Hours: Tuesdays, 10:30am-12pm (online)
+ * Office Hours: Thursdays 11am-12:30pm (online)
 
 TA: Guangchun Zheng  - `gzheng6@illinois.edu`
- * Office Hours: Mondays 8am-10am, Thursdays 4-6pm, Fridays 5-7pm (online)
+ * Office Hours: Tuesdays 8-10:30am and Fridays 3-5:30pm (online)
 
-See [Zoom Meeting Room on Canvas](https://canvas.illinois.edu/courses/52731/external_tools/327) to access meeting links.
+TA: Yiliu Tang - `yiliut2@illinois.edu`
+ * Office Hours: Tuesdays 1-4pm, Wednesdays 8am-10am (online)
+
+TA: Gaozheng Liu - `gl11@illinois.edu`
+ * Office Hours: Mondays 4-6pm (online)
+
+See [Zoom Meeting Room on Canvas](https://canvas.illinois.edu/courses/58974/external_tools/327) to access meeting links.
 
  
 Other: 
@@ -32,13 +38,14 @@ Other:
 
 ## Where resources are be located
 
- * Canvas: https://canvas.illinois.edu/courses/52731 - where the grades and assignments links will be posted
+ * Canvas: https://canvas.illinois.edu/courses/58974 - where the grades and assignments links will be posted
  
- * PrairieLearn: https://us.prairielearn.com/pl/course_instance/170200 - where assignments will be completed
+ * PrairieLearn: https://us.prairielearn.com/pl/course_instance/187129 - where assignments will be completed
 
- * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_obuobg_spring2025/ - where lecture slides, notebooks, data & general course info will live.
+ * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2025/ - where lecture slides, notebooks, data & general course info will live.
 
- * Slack: https://is445obuobgsp-hnm6590.slack.com/ (workspace name is is445-obuobg-spring2025) - the best place to ask questions in a `#homeworkX-questions` channel (or the `#general` channel for general questions)
+ * Slack: [https://is445-bc-fa25.slack.com/](https://join.slack.com/t/is445-bc-fa25/shared_invite/zt-3bj21az1i-eKZKeM4pyIMaqLU3vebjTA) (workspace name is is445-bc-fa2025) - the best place to ask questions in a `#assignmentX-questions` channel 
+   * all quiz questions on channel `#quiz-questions`
  
 notes:
 
@@ -67,7 +74,7 @@ and those that are considered "preparatory" for the final project
 
 ## Assignment Listings
 
-Current assignment list on PrairieLearn: https://us.prairielearn.com/pl/course_instance/170200
+Current assignment list on PrairieLearn: https://us.prairielearn.com/pl/course_instance/187129/assessments
  * caveat - 0% until official "assigned" week (or we are finished testing, see upper-left ? box)
 
 notes:
@@ -104,6 +111,17 @@ notes:
 the reason for this is a "feature" of PL in that you need to have the updated due date *before* you submit the assignment, and we need time to process and add these new due dates
 
 if you do submit in this "nebulous window" just resubmit after you get the email, and as always feel free to reach out if questions come up!
+
+---
+
+## Notes on Homework #1
+
+You have to post in the `#introductions` channel for full points.
+
+This lets us know that you can *find a channel on Slack*.
+
+notes:
+this is super important -- logging on is the first battle, you also need to be able to find the proper places to post your questions given that we have different channels for *each* assignment to help us keep questions organized with such a large class
 
 ---
 
