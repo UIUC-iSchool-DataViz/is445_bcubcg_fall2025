@@ -4,13 +4,13 @@ visible: true
 icon: undraw_version_control_9bpv.svg
 notitle: true
 examples:
-  - filename: prep_notebook_week02.ipynb
+  - filename: prep_notebook_week03.ipynb
     type: ipynb
-    title: Prep Notebook, Week 2
+    title: Prep Notebook, Week 3
     description: Prep notebook for this week
-  - filename: inClass_week02.ipynb
+  - filename: inClass_week03.ipynb
     type: ipynb
-    title: In class, Week 2
+    title: In class, Week 3
     description: in class notebook for this week
   - filename: spring2021_prep_notebook_week02.ipynb
     type: ipynb
@@ -49,8 +49,8 @@ Also, more about numpy.reshape (and what the -1 means): https://stackoverflow.co
 
 ## Optional Reading List (See syllabus for acronyms)
 
- 1. VAD, Ch. 2: What: Data Abstraction 
- 2. VAD, Ch. 13: Reduce Items and Attributes 
- 3. <a href="https://github.com/jnaiman/IS-452AO-Fall2019/blob/master/Lectures/Week-10-JSONandCSV.ipynb">IS452's intro to CSV files (bottom of page)</a> 
- 4. <a href="https://github.com/jnaiman/IS-452AO-Fall2019/blob/master/Lectures/Week-09-Dictionaries.ipynb">IS452's Intro to Dictionaries</a> 
- 5. <a href="https://pandas.pydata.org/pandas-docs/stable/">Pandas Docs</a> & <a href="https://docs.scipy.org/doc/numpy/reference/">NumPy Docs</a>
+1. VAD, Ch. 2: What: Data Abstraction 
+2. VAD, Ch. 13: Reduce Items and Attributes 
+3. <a href="https://github.com/jnaiman/IS-452AO-Fall2019/blob/master/Lectures/Week-10-JSONandCSV.ipynb">IS452's intro to CSV files (bottom of page)</a> 
+4. <a href="https://github.com/jnaiman/IS-452AO-Fall2019/blob/master/Lectures/Week-09-Dictionaries.ipynb">IS452's Intro to Dictionaries</a> 
+5. <a href="https://pandas.pydata.org/pandas-docs/stable/">Pandas Docs</a> & <a href="https://docs.scipy.org/doc/numpy/reference/">NumPy Docs</a>
