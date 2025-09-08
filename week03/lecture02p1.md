@@ -424,7 +424,7 @@ Ad hoc means data readers need to be adapted to format.
 
 ## Reading CSV
 
-```
+```python
 ...
 390,1.83970e-003,-4.53930e-004,1.21520e-002
 395,4.61530e-003,-1.04640e-003,3.11100e-002
