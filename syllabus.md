@@ -479,8 +479,11 @@ A list of the designated University employees who, as counselors, confidential a
 Other information about resources and reporting is available here: wecare.illinois.edu.
 
 
-# The iSchool Academic Support Center
-The iSchool Academic Support Center offers academic success workshops; coordinates with faculty and instructors to provide support for specific courses or exams; and curates and shares academic support resources. Appointments are available online and in person in room 4020 (Academic Support Center) in the 614 E. Daniel iSchool building. For more information including hours of operation, please visit https://ischool.illinois.edu/student-life/academic-support-center.
+# The iSchool Academic Support 
+The iSchool Academic Support offers links to a variety of resources for students, see a full list of resources here [https://ischool.illinois.edu/student-life/academic-support-center](https://ischool.illinois.edu/student-life/academic-support-center).  Links for the Academic Support Center are offline at the moment, but expect updates soon.
+
+<!--  offers academic success workshops; coordinates with faculty and instructors to provide support for specific courses or exams; and curates and shares academic support resources. Appointments are available online and in person in room 4020 (Academic Support Center) in the 614 E. Daniel iSchool building. For more information including hours of operation, please visit https://ischool.illinois.edu/student-life/academic-support-center.
+-->
 
 # The Writers Workshop 
 The Writers Workshop (https://writersworkshop.illinois.edu/) provides writing support to students, including individual consultations, workshops, and resources. In response to the ongoing COVID-19 pandemic, all Writers Workshop consultations are currently offered online (https://writersworkshop.illinois.edu/services/consultations/online/). 
