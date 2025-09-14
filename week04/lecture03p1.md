@@ -3,7 +3,7 @@ title: Lecture 3.1 - Raster vs. Vector in Images
 layout: lecture
 description: >-
  We'll look at the basics of rendering of images and spatial data.
-date: 2023-08-29
+date: 2025-09-15
 ---
 
 <br>

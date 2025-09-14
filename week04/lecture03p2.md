@@ -3,7 +3,7 @@ title: Lecture 3.2 - Colors and Color maps, Types of viz
 layout: lecture
 description: >-
  How do colors work? What are the different ways we can map colors to values? What should we keep in mind when doing this?
-date: 2024-09-16
+date: 2025-09-15
 ---
 
 
@@ -433,7 +433,7 @@ When we start combining them though, it can get a little more confusing -- for e
 
  * Resources:
   * [colorbrewer](http://colorbrewer2.org)
-  * [palettable](https://www.palettable.io/) (package)
+  * ~~[palettable](https://www.palettable.io/) (package)~~ [Coolors](https://coolors.co/)
 
 notes:
 there are a million websites that allow you to create color palettes
@@ -693,9 +693,12 @@ http://enchroma.com/test/instructions/
 
 http://enchroma.com/test/instructions/
 
+<!--
 There's more: https://nakeddata.org/2021/01/22/accessible-data-visualisation-beyond-colour-blindness/
+-->
+There's more: https://data.europa.eu/apps/data-visualisation-guide/accessibility-of-data-visualisation 
 
-Frank Elavksy (Staff Data Visualization Engineer + Designer on the Data Visualization team at Visa Inc.):
+[Frank Elavksy](https://www.frank.computer/) (Staff Data Visualization Engineer + Designer on the Data Visualization team at Visa Inc.):
  * High contrast text
  * High contrast elements
  * Using texture, shape, units
