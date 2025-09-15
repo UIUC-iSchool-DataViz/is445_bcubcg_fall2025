@@ -3,7 +3,7 @@ title: Lecture 4.1 - Widgets & Traitlets for Interactivity
 layout: lecture
 description: >-
  The basics of using Traitlets and data binding in visualization.
-date: 2025-02-13
+date: 2025-09-22
 ---
 
 ## Today's Main Topics
@@ -44,15 +44,14 @@ today will be very coding heavy so we will get lots of practice
 ## To Python for a quick demo!
 
 notes:
-*start with the stats stuff!* -- e.g. https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/nbv.html?notebook_name=%2Fis445_oauoag_spring2023%2Fweek03%2FinClass_week03.ipynb
 
-**put this in the prep!!**
+**GO TO PYTHON**
 
 ---
 
 ## What is a widget?
 
-<div class="fig-container" data-style="height: 650px;" data-file="figures/hsv_space.html" data-markdown=true>
+<div class="fig-container" data-style="height: 850px;" data-file="figures/hsv_space.html" data-markdown=true>
 </div>
 
 notes:
