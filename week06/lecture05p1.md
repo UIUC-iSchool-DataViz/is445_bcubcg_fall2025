@@ -20,7 +20,7 @@ bqplot!
 
 ## Where we are: Last week
 
-<img src="../week04/images/data_viz_diagram_week4.png">
+<img src="../week05/images/data_viz_diagram_week4.png" alt="Mind-map of what we covered last week, with beginning interactivity highlighted.">
 
 notes:
 last week we started linking together some visual encodings and programming concepts to build interactivity
@@ -29,7 +29,7 @@ last week we started linking together some visual encodings and programming conc
 
 ## Where we are: This week
 
-<img src="images/data_viz_diagram_week05.png">
+<img src="images/data_viz_diagram_week05.png" alt="Mind-map of what we will cover this week, with an emphasis on Grammar of Graphics and the visualization engine 'bqplot'.">
 
 notes:
 today we'll cover a new viz engine called bqplot (we've been using matplotlib as our main viz engine up until this point)
@@ -52,7 +52,7 @@ notes:
 
 ## Next week -- "flipped" class for Lab \#5
 
-In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page) *and* have looked at the prep notebook in Week 6.
+In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page) *and* have looked at the prep notebook in Week 7.
 
 
 notes:
@@ -63,7 +63,7 @@ I'm going to assume you have watched the lecture -- this is the coding portion o
 
 ## Next week -- "flipped" class for Lab \#5
 
-In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page) *and* have looked at the prep notebook in Week 6.
+In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page) *and* have looked at the prep notebook in Week 7.
 
 **We will spend the majority of class next week with time to work on Lab \#5.**
 
@@ -91,7 +91,7 @@ you also might see that you have an extra couple of days for Lab 5 -- *this does
 
 Your best bet is to clear cookies.
 
-<img src="images/cookies_issue.png">
+<img src="images/cookies_issue.png" alt="Screenshot of XSRF error debugging -- suggestions include using a different browser, clearing cookies and cache, trying a Chrome 'incognito' browser, making sure your browser is up to date, and making sure you don't have multiple Workspaces open.">
 
 Feel free to pop by office hours (mine or the TA's) for any help with this!
 
@@ -111,7 +111,7 @@ we are working to find another solution, but don't hesitate to pop by my office 
 
 ---
 
-![](images/logreas_AFrame_2.gif)
+<img src="images/logreas_AFrame_2.gif" alt="Diagram of imperative vs. declarative programming.  Imperative has an initial state and a set of explicit processes for final state, declarative has a an initial state and rules that specify how a final state should unfold.">
 
  * "_Declarative_ programming languages ... are rather like logics in that programs declare statements that are known to be true and relationships between these and other statements."
  * "_Imperative_ programming languages ... state what shall be done in given conditions. They start with an initial state and an explicit set of instructions that describe the process that will unfold."
@@ -132,7 +132,7 @@ you can think of imperative as a step-by-step recipe and its usually what you'll
  * Declarative viz "paints" graphics on a canvas elements common to all visualizations
 
 <!--[](images/GoG.png)-->
-<img src="images/GoG.png" width="700"/>
+<img src="images/GoG.png" width="700" alt="An example Grammar of Graphics pyramid.  At the bottom (widest) is Data, then Aesthetics (e.g., axes encodings), Scale (e.g., log), geometric objects (e.g., 'Marks' like Line or Bar), statistics (e.g., mean), facets (e.g. subplots) and coordinate systems (e.g. cartesian).">
 
 
 [More info here](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
