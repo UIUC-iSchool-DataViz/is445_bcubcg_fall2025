@@ -4,13 +4,13 @@ visible: true
 icon: undraw_data_reports_706v.svg
 notitle: true
 examples:
-  - filename: inClass_week05.ipynb
+  - filename: inClass_week06.ipynb
     type: ipynbInClass
-    title: In class Notebook, Week 5
+    title: In class Notebook, Week 6
     description: Prep notebook for this week
   - filename: prep_notebook_week06.ipynb
     type: ipynb
-    title: Prep Notebook, Week 5
+    title: Prep Notebook, Week 6
     description: Prep notebook for this week
   - filename: fall2019_examples_week05.ipynb
     type: ipynb
@@ -43,14 +43,6 @@ construction.
  * [Watch This: A Taxonomy for Dynamic Data Visualization](http://doi.org/10.1109/VAST.2012.6400552) by Cottam et al
  * [FiveThirtyEight Datasets](https://github.com/fivethirtyeight/data)
  
-<!-- ## Downloads
-
-### Data:
-
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/ufo-scrubbed-geocoded-time-standardized-00.csv" download>The UFO Sitings Dataset (13Mb) - ufo-scrubbed-geocoded-time-standardized-00.csv</a>
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week05/data/michigan_lld.flt" download>Michigan Depth Map (86Mb) - michigan_lld.flt</a>
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week06/data_and_libs/nations.json" download>EXTRAS: Wealth of Nations Data - nations.json</a>
- -->
 
 ### Resources
 
@@ -59,6 +51,6 @@ construction.
 
 ## Optional Reading List
 
- 1. <a href="https://www.youtube.com/watch?v=rraXF0EjRC8">Video about bqplot</a> 
- 2. <a href="https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149">An introduction to Grammar of Graphics</a> 
- 3. <a href="https://ipywidgets.readthedocs.io/en/latest/">ipywidgets Docs</a>; <a href="https://traitlets.readthedocs.io/en/stable/">Traitlets Docs</a>; <a href="https://bqplot.readthedocs.io/en/latest/">bqplot Docs</a>
+1. <a href="https://www.youtube.com/watch?v=rraXF0EjRC8">Video about bqplot</a> 
+2. <a href="https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149">An introduction to Grammar of Graphics</a> 
+3. <a href="https://ipywidgets.readthedocs.io/en/latest/">ipywidgets Docs</a>; <a href="https://traitlets.readthedocs.io/en/stable/">Traitlets Docs</a>; <a href="https://bqplot.readthedocs.io/en/latest/">bqplot Docs</a>
