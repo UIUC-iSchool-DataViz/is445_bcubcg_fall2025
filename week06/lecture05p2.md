@@ -3,7 +3,7 @@ title: Lecture 5.2 - GitHub Pages Setup
 layout: lecture
 description: >-
  Getting set up with a github.io account
-date: 2024-09-30
+date: 2025-09-29
 ---
 
 
@@ -28,7 +28,7 @@ notes:
 
 Step 2: Create new repository
 
-<img src="images/githubio1.png" width="800"/>
+<img src="images/githubio1.png" width="800" alt="A screenshot of the Prof's landing page for github.com.">
 
 ---
 
@@ -36,7 +36,7 @@ Step 2: Create new repository
 
 Step 2: Create new repository
 
-<img src="images/githubio1_nm.png" width="800"/>
+<img src="images/githubio1_nm.png" width="800" alt="A screenshot of the Prof's landing page for github.com with the 'New' button for creating a new repository highlighted.">
 
 ---
 
@@ -44,7 +44,7 @@ Step 2: Create new repository
 
 Step 3: Name your new repository as ```[username].github.io```
 
-<img src="images/githubio2_nm.png" width="800"/>
+<img src="images/githubio2_nm.png" width="800" alt="A screenshot of how to create a new github.io page (in the screenshot it is for 'jnaiman.github.io').">
 
 ---
 
@@ -52,7 +52,7 @@ Step 3: Name your new repository as ```[username].github.io```
 
 Step 3: Name your new repository as ```[username].github.io```
 
-<img src="images/githubio2.png" width="800"/>
+<img src="images/githubio2.png" width="800" alt="A screenshot of how to create a new github.io page (in the screenshot it is for 'jnaiman.github.io') with the name of the repository highlighted.">
 
 notes: the name is important here!!
 
@@ -62,7 +62,7 @@ notes: the name is important here!!
 
 Step 4: Clone your repository
 
-<img src="images/githubio3_nm.png" width="800"/>
+<img src="images/githubio3_nm.png" width="800" alt="Screenshot of default page for a new, but empty repository on github.">
 
 ---
 
@@ -70,7 +70,7 @@ Step 4: Clone your repository
 
 Step 4: Clone your repository
 
-<img src="images/githubio3.png" width="800"/>
+<img src="images/githubio3.png" width="800" alt="Screenshot of default page for a new, but empty repository on github with the URL to copy to clone the repo with 'git clone' on a local machine.">
 
 notes: make note of your git name, we'll use this for "cloning" our github repo
 
@@ -90,7 +90,7 @@ Step 5: Clone your repository
 
  #### You might be prompted to add in your credentials:
 
-<img src="images/stackoverflow.png" alt="url for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git"/>
+<img src="images/stackoverflow.png" alt="Image shows prompts to set global 'git config' for user email and name.  Original URL for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git"/>
 
 ---
 
@@ -101,7 +101,7 @@ Step 5: Clone your repository
 
  #### You might be prompted to add in your credentials:
 
-<img src="images/stackoverflow.png" alt="url for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git" width=400/>
+<img src="images/stackoverflow.png" alt="Image shows prompts to set global 'git config' for user email and name.  Original URL for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git" width=400/>
 
 See instructions for [setting up your credentials in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git).
 
@@ -110,9 +110,9 @@ See instructions for [setting up your credentials in Git](https://docs.github.co
 
 ## github.io for publishing
 
-Step 6: In the command line, move into your github.io folder with `cd <GITHUB USER NAME>.github.io`
+Step 6: In the command line, move into your github.io folder with ```cd <GITHUB USER NAME>.github.io```
 
-**Be aware:** you might have to put a full path to "cd" into like `cd /Users/jillnaiman/jnaiman.github.io`
+**Be aware:** you might have to put a full path to "cd" into like ```cd /Users/jillnaiman/jnaiman.github.io```
 
 ---
 
@@ -169,7 +169,7 @@ you can also use the GUI interface to do this if you are more comfortable with t
 
 ## github.io for publishing
 
-<img src="images/github_labsetup_1.png" width=500>
+<img src="images/github_labsetup_1.png" width=500 alt="Screenshot of prompt for Lab \#4 on PrairieLearn with the 'Enter URL here:' section highlighted.">
 
 notes:
 you'll get some feedback instantaneously as well as your grade
@@ -178,7 +178,7 @@ you'll get some feedback instantaneously as well as your grade
 
 ## github.io for publishing
 
-<img src="images/github_labsetup_2.png" width=500>
+<img src="images/github_labsetup_2.png" width=500 alt="Screenshot of prompt for Lab \#4 on PrairieLearn with an emphasis on making sure to use the index.html file that is linked on the lab prompt.">
 
 notes:
 one final thing -- be sure you use the index.html file linked here in your lab instance!
@@ -198,7 +198,7 @@ one final thing -- be sure you use the index.html file linked here in your lab i
  * You might have to set up a personal access token, see: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
  * You might have to specify a "branch" to build from: on your github.io code page go to Settings -> Pages and select "Branch:master"/"Branch:main" under "Source"
 
-<img src="images/set_branch.png" width="700px">
+<img src="images/set_branch.png" width="700px" alt="Screenshot of clicking on 'Settings' on your github repository, selecting 'Pages' from the left side bar, and clicking on 'master' or 'main' from the dropdown menu under the 'Source' heading.  This is necessary to specify you are building your page from a branch.">
 
 
 ---
