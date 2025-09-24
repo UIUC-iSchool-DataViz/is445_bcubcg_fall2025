@@ -28,7 +28,7 @@ notes:
 
 Step 2: Create new repository
 
-<img src="images/githubio1.png" width="800" alt="A screenshot of the Prof's landing page for github.com.">
+<img src="images/githubSetup/githubio1.png" width="800" alt="A screenshot of the Prof's landing page for github.com.">
 
 ---
 
@@ -36,7 +36,7 @@ Step 2: Create new repository
 
 Step 2: Create new repository
 
-<img src="images/githubio1_nm.png" width="800" alt="A screenshot of the Prof's landing page for github.com with the 'New' button for creating a new repository highlighted.">
+<img src="images/githubSetup/githubio1_nm.png" width="800" alt="A screenshot of the Prof's landing page for github.com with the 'New' button for creating a new repository highlighted.">
 
 ---
 
@@ -44,7 +44,7 @@ Step 2: Create new repository
 
 Step 3: Name your new repository as ```[username].github.io```
 
-<img src="images/githubio2_nm.png" width="800" alt="A screenshot of how to create a new github.io page (in the screenshot it is for 'jnaiman.github.io').">
+<img src="images/githubSetup/githubio2_nm.png" width="800" alt="A screenshot of how to create a new github.io page (in the screenshot it is for 'jnaiman.github.io').">
 
 ---
 
@@ -52,7 +52,7 @@ Step 3: Name your new repository as ```[username].github.io```
 
 Step 3: Name your new repository as ```[username].github.io```
 
-<img src="images/githubio2.png" width="800" alt="A screenshot of how to create a new github.io page (in the screenshot it is for 'jnaiman.github.io') with the name of the repository highlighted.">
+<img src="images/githubSetup/githubio2.png" width="800" alt="A screenshot of how to create a new github.io page (in the screenshot it is for 'jnaiman.github.io') with the name of the repository highlighted.">
 
 notes: the name is important here!!
 
@@ -62,7 +62,7 @@ notes: the name is important here!!
 
 Step 4: Clone your repository
 
-<img src="images/githubio3_nm.png" width="800" alt="Screenshot of default page for a new, but empty repository on github.">
+<img src="images/githubSetup/githubio3_nm.png" width="800" alt="Screenshot of default page for a new, but empty repository on github.">
 
 ---
 
@@ -70,7 +70,7 @@ Step 4: Clone your repository
 
 Step 4: Clone your repository
 
-<img src="images/githubio3.png" width="800" alt="Screenshot of default page for a new, but empty repository on github with the URL to copy to clone the repo with 'git clone' on a local machine.">
+<img src="images/githubSetup/githubio3.png" width="800" alt="Screenshot of default page for a new, but empty repository on github with the URL to copy to clone the repo with 'git clone' on a local machine.">
 
 notes: make note of your git name, we'll use this for "cloning" our github repo
 
@@ -90,7 +90,7 @@ Step 5: Clone your repository
 
  #### You might be prompted to add in your credentials:
 
-<img src="images/stackoverflow.png" alt="Image shows prompts to set global 'git config' for user email and name.  Original URL for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git"/>
+<img src="images/githubSetup/stackoverflow.png" alt="Image shows prompts to set global 'git config' for user email and name.  Original URL for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git"/>
 
 ---
 
@@ -101,7 +101,7 @@ Step 5: Clone your repository
 
  #### You might be prompted to add in your credentials:
 
-<img src="images/stackoverflow.png" alt="Image shows prompts to set global 'git config' for user email and name.  Original URL for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git" width=400/>
+<img src="images/githubSetup/stackoverflow.png" alt="Image shows prompts to set global 'git config' for user email and name.  Original URL for image: https://stackoverflow.com/questions/65257503/cannot-commit-when-i-had-created-a-file-using-git" width=400/>
 
 See instructions for [setting up your credentials in Git](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git).
 
@@ -169,7 +169,7 @@ you can also use the GUI interface to do this if you are more comfortable with t
 
 ## github.io for publishing
 
-<img src="images/github_labsetup_1.png" width=500 alt="Screenshot of prompt for Lab \#4 on PrairieLearn with the 'Enter URL here:' section highlighted.">
+<img src="images/githubSetup/github_labsetup_1.png" width=500 alt="Screenshot of prompt for Lab \#4 on PrairieLearn with the 'Enter URL here:' section highlighted.">
 
 notes:
 you'll get some feedback instantaneously as well as your grade
@@ -178,7 +178,20 @@ you'll get some feedback instantaneously as well as your grade
 
 ## github.io for publishing
 
-<img src="images/github_labsetup_2.png" width=500 alt="Screenshot of prompt for Lab \#4 on PrairieLearn with an emphasis on making sure to use the index.html file that is linked on the lab prompt.">
+We will be storing time/hash information upon your submission:
+
+<img src="images/githubSetup/checksum_github.png" alt="Screenshot of feedback from a successful submission of your github.io page with the information about your submission date and time and the hash we'll be using for grading.">
+
+notes:
+On successful submission you'll see something like the following -- for the purposes of this lab, as long as you get a 100%, you are good to go, but the format of the output is something you'll see come up again for submissions that involve a URL.  
+
+For grading, we will only be looking at submissions marked before the due date on your repo, so be sure to get in all changes you want to submissions before the due date!
+
+---
+
+## github.io for publishing
+
+<img src="images/githubSetup/github_labsetup_2.png" width=500 alt="Screenshot of prompt for Lab \#4 on PrairieLearn with an emphasis on making sure to use the index.html file that is linked on the lab prompt.">
 
 notes:
 one final thing -- be sure you use the index.html file linked here in your lab instance!
@@ -198,7 +211,7 @@ one final thing -- be sure you use the index.html file linked here in your lab i
  * You might have to set up a personal access token, see: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
  * You might have to specify a "branch" to build from: on your github.io code page go to Settings -> Pages and select "Branch:master"/"Branch:main" under "Source"
 
-<img src="images/set_branch.png" width="700px" alt="Screenshot of clicking on 'Settings' on your github repository, selecting 'Pages' from the left side bar, and clicking on 'master' or 'main' from the dropdown menu under the 'Source' heading.  This is necessary to specify you are building your page from a branch.">
+<img src="images/githubSetup/set_branch.png" width="700px" alt="Screenshot of clicking on 'Settings' on your github repository, selecting 'Pages' from the left side bar, and clicking on 'master' or 'main' from the dropdown menu under the 'Source' heading.  This is necessary to specify you are building your page from a branch.">
 
 
 ---
