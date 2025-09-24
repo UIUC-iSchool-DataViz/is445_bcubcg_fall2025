@@ -142,7 +142,104 @@ declarative is more like painting, or linking different viz elements together li
 
 ---
 
-## Pandas: Have been using mostly _Imperatively_
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+
+notes:
+Another way to look at this is from the Comprehensive Guide that is part of the optional reading...
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+
+
+notes:
+This is *data viz* after all!  So we'd better start with the data...
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+2. **Aesthetics:** Confirm the axes based on the data dimensions, positions of various data points in the plot. Also check if any form of encoding is needed including size, shape, color and so on which are useful for plotting multiple data dimensions.
+
+
+notes:
+**read**
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+2. **Aesthetics:** Confirm the axes based on the data dimensions, positions of various data points in the plot. Also check if any form of encoding is needed including size, shape, color and so on which are useful for plotting multiple data dimensions.
+3. **Scale:** Do we need to scale the potential values, use a specific scale to represent multiple values or a range?
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+2. **Aesthetics:** Confirm the axes based on the data dimensions, positions of various data points in the plot. Also check if any form of encoding is needed including size, shape, color and so on which are useful for plotting multiple data dimensions.
+3. **Scale:** Do we need to scale the potential values, use a specific scale to represent multiple values or a range?
+4. **Geometric objects:** These are popularly known as ‘geoms’. This would cover the way we would depict the data points on the visualization. Should it be points, bars, lines and so on?
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+2. **Aesthetics:** Confirm the axes based on the data dimensions, positions of various data points in the plot. Also check if any form of encoding is needed including size, shape, color and so on which are useful for plotting multiple data dimensions.
+3. **Scale:** Do we need to scale the potential values, use a specific scale to represent multiple values or a range?
+4. **Geometric objects:** These are popularly known as ‘geoms’. This would cover the way we would depict the data points on the visualization. Should it be points, bars, lines and so on?
+5. **Statistics:** Do we need to show some statistical measures in the visualization like measures of central tendency, spread, confidence intervals?
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+2. **Aesthetics:** Confirm the axes based on the data dimensions, positions of various data points in the plot. Also check if any form of encoding is needed including size, shape, color and so on which are useful for plotting multiple data dimensions.
+3. **Scale:** Do we need to scale the potential values, use a specific scale to represent multiple values or a range?
+4. **Geometric objects:** These are popularly known as ‘geoms’. This would cover the way we would depict the data points on the visualization. Should it be points, bars, lines and so on?
+5. **Statistics:** Do we need to show some statistical measures in the visualization like measures of central tendency, spread, confidence intervals?
+6. **Facets:** Do we need to create subplots based on specific data dimensions?
+
+---
+
+## Grammar of Graphics for Declarative Viz
+
+Quoted from [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/):
+
+1. **Data:** Always start with the data, identify the dimensions you want to visualize.
+2. **Aesthetics:** Confirm the axes based on the data dimensions, positions of various data points in the plot. Also check if any form of encoding is needed including size, shape, color and so on which are useful for plotting multiple data dimensions.
+3. **Scale:** Do we need to scale the potential values, use a specific scale to represent multiple values or a range?
+4. **Geometric objects:** These are popularly known as ‘geoms’ (or 'marks'). This would cover the way we would depict the data points on the visualization. Should it be points, bars, lines and so on?
+5. **Statistics:** Do we need to show some statistical measures in the visualization like measures of central tendency, spread, confidence intervals?
+6. **Facets:** Do we need to create subplots based on specific data dimensions?
+7. **Coordinate system:** What kind of a coordinate system should the visualization be based on – should it be cartesian or polar?
+
+notes:
+
+---
+
+## Pandas & Matplotlib: Have been using mostly _Imperatively_
 
  * [pandas.pydata.org](http://pandas.pydata.org/)
  * Support for indexing, multi-indexing
