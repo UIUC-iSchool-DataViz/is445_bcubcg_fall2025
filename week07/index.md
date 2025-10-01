@@ -6,11 +6,11 @@ notitle: true
 examples:
   - filename: inClass_week06.ipynb
     type: ipynb
-    title: In Class Notebook, Week 6
+    title: In Class Notebook, Week 7
     description: In class notebook
   - filename: prep_notebook_week06_part1.ipynb
     type: ipynb
-    title: Prep Notebook, Week 6
+    title: Prep Notebook, Week 7
     description: Prep notebook for this week
   - filename: spring2019_prep_notebook_week06_part1.ipynb
     type: ipynb
@@ -37,6 +37,6 @@ We will start thinking about maps & map projection, both in `bqplot` and `matplo
 
 ## Optional reading list
 
- 1. VAD Ch. 8.1-8.3: Arrange Spatial Data 
- 2. VAD Ch. 11.1-11.5: Manipulate View 
- 3. <a href="https://serialmentor.com/dataviz/geospatial-data.html">FDV, Ch. 15: Visualizing geospatial data</a>
+1. VAD Ch. 8.1-8.3: Arrange Spatial Data 
+2. VAD Ch. 11.1-11.5: Manipulate View 
+3. <a href="https://clauswilke.com/dataviz/geospatial-data.html">FDV, Ch. 15: Visualizing geospatial data
