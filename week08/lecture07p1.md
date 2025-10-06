@@ -24,7 +24,7 @@ notes:
 
 ## Where we are: Last week
 
-<img src="images/dataviz_lastweek_t3.png">
+<img src="images/dataviz_lastweek_t3.png" alt="A mind-map style visualization of topics covered last week in class, including interactive dashboard building.">
 
 notes:
 last week we messed around a bit with mappable data and made some interactive dashboards
@@ -33,7 +33,7 @@ last week we messed around a bit with mappable data and made some interactive da
 
 ## Where we are: This week
 
-<img src="images/this_week_diagram.png">
+<img src="images/this_week_diagram.png" alt="A mind-map style visualization of topics covered this week in class, highlighting map projections and various visualization engines.">
 
 notes:
 

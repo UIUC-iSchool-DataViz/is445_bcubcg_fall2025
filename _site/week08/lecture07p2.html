@@ -97,7 +97,7 @@ to the flat object we are observing.
 
 What are some things we could preserve during such a projection?
 
-<img src="images/mapwrap.gif" height="350"/>
+<img src="images/mapwrap.gif" height="350" alt="A gif of a world map being 'unwrapped' into a flat cylinder representation.">
 
 notes:
 One common conversion from sphere to plane is the squashed cylinder approach
@@ -109,7 +109,7 @@ This can be used to conserve straight lines (distances)
 
 ## Projections
 
-<img src="images/mapsplode.gif" height="350"/>
+<img src="images/mapsplode.gif" height="350" alt="A gif of a world map being 'exploded' into a set of soccer-ball like hexagons.">
 
 notes:
 There's always a weird way to do it too. Here we're exploding the sphere into lots of 
@@ -148,7 +148,7 @@ What happens when we preserve one property over another?
 
 Mercator is a "conformal" projection.  What is wrong with this?
 
-<!-- .slide: data-background-image="images/mercator.png" data-background-size="auto 80%" -->
+<!-- .slide: data-background-image="images/mercator.png" data-background-size="auto 80%" alt="A Mercator projection of a world map." -->
 
 notes:
 conformal = shape preserving (at the expense of accurate size)
@@ -161,7 +161,7 @@ We can characterize distortions in a projection by examining how a known shape
 appears on them.  The Tissot Ellipse of Distortion is a method of showing this
 by drawing circles of a fixed radius and examining their elliptical distortion.
 
-<img src="images/Tissot_indicatrix_world_map_Mercator_proj.svg" height="400">
+<img src="images/Tissot_indicatrix_world_map_Mercator_proj.svg" height="400" alt="A Mercator projection of a world map with Tissot Ellipses of Distortion overlaid.">
 
 notes: so here for example, we see that the mercator projection has circles that
 stay circles, though they change in relative size depending on where they are on the map
@@ -170,33 +170,33 @@ stay circles, though they change in relative size depending on where they are on
 
 What do you notice?
 
-<!-- .slide: data-background-image="images/mercator.png" data-background-size="auto 80%" -->
+<!-- .slide: data-background-image="images/mercator.png" data-background-size="auto 80%" alt="A Mercator projection of a world map." -->
 
 ---
 
-<!-- .slide: data-background-image="images/mercator_tissot.png" data-background-size="auto 80%" -->
+<!-- .slide: data-background-image="images/mercator_tissot.png" data-background-size="auto 80%" alt="A Mercator projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are not distorted in shape, but are much bigger at the poles than at the equator." -->
 
 notes:
 Greenland and Antarctica are HUGE
 
 ---
 
-<!-- .slide: data-background-image="images/transversemercator.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/transversemercator.png" data-background-size="auto 95%" alt="A Transverse Mercator projection of a world map." -->
 
 ---
 
-<!-- .slide: data-background-image="images/transversemercator_tissot.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/transversemercator_tissot.png" data-background-size="auto 95%" alt="A Transverse Mercator projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are not distorted in shape, but are much toward the edges than in the middle." -->
 
 notes:
 this projection is most accurate near the vertical center line
 
 ---
 
-<!-- .slide: data-background-image="images/lambertcylindrical.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/lambertcylindrical.png" data-background-size="auto 95%" alt="A Lambert Cylindrical projection of a world map." -->
 
 ---
 
-<!-- .slide: data-background-image="images/lambertcylindrical_tissot.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/lambertcylindrical_tissot.png" data-background-size="auto 95%" alt="A Lambert Cylindrical projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are not distorted in shape and size, but sizes are much less distorted than for Mercator projections. Shape is the most distorted at the poles." -->
 
 notes:
 Also known as "equirectangular", this is the favorite format of NASA because it's mathematically straightforward.
@@ -205,11 +205,11 @@ Note that the very top line of the image represents a single point on the globe.
 
 ---
 
-<!-- .slide: data-background-image="images/mollweide.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/mollweide.png" data-background-size="auto 95%" alt="A Mollweide projection of a world map." -->
 
 ---
 
-<!-- .slide: data-background-image="images/mollweide_tissot.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/mollweide_tissot.png" data-background-size="auto 95%" alt="A Lambert Cylindrical projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are not distorted in shape and size, but sizes are much less distorted than for Mercator projections. Shape is the most distorted at the poles." -->
 
 notes:
 this is considered a good compromise between shape-preserving and angle preserving - but it's not perfect at either.
