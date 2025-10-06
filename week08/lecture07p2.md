@@ -162,7 +162,7 @@ this projection is most accurate near the vertical center line
 
 ---
 
-<!-- .slide: data-background-image="images/lambertcylindrical_tissot.png" data-background-size="auto 95%" alt="A Lambert Cylindrical projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are not distorted in shape and size, but sizes are much less distorted than for Mercator projections. Shape is the most distorted at the poles." -->
+<!-- .slide: data-background-image="images/lambertcylindrical_tissot.png" data-background-size="auto 95%" alt="A Lambert Cylindrical projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are distorted in shape and size, but sizes are much less distorted than for Mercator projections. Shape is the most distorted at the poles." -->
 
 notes:
 Also known as "equirectangular", this is the favorite format of NASA because it's mathematically straightforward.
@@ -175,18 +175,18 @@ Note that the very top line of the image represents a single point on the globe.
 
 ---
 
-<!-- .slide: data-background-image="images/mollweide_tissot.png" data-background-size="auto 95%" alt="A Lambert Cylindrical projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are not distorted in shape and size, but sizes are much less distorted than for Mercator projections. Shape is the most distorted at the poles." -->
+<!-- .slide: data-background-image="images/mollweide_tissot.png" data-background-size="auto 95%" alt="A Mollweide projection of a world map with Tissot Ellipses of Distortion overlaid.  The ellipses are distorted in shape and size, sizes and shapes are medium-distorted." -->
 
 notes:
 this is considered a good compromise between shape-preserving and angle preserving - but it's not perfect at either.
 
 ---
 
-<!-- .slide: data-background-image="images/sinusoidal.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/sinusoidal.png" data-background-size="auto 95%" alt="A Sinusoidal projection of a world map." -->
 
 ---
 
-<!-- .slide: data-background-image="images/sinusoidal_tissot.png" data-background-size="auto 95%" -->
+<!-- .slide: data-background-image="images/sinusoidal_tissot.png" data-background-size="auto 95%" alt="A Sinusoidal projection of a world map."  -->
 
 notes:
 this has even less distortion than mollweide, but the pointy ends don't feel very elegant and planet-like
