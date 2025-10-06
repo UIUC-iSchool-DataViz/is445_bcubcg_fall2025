@@ -245,7 +245,7 @@ Why is Europe at the center of all the maps we've looked at?
 
 ## Why bother thinking about projections?
 
-<img src="images/Azimuthal_equidistant_projection.jpg" width="512"/>
+<img src="images/Azimuthal_equidistant_projection.jpg" width="512" alt="A circular map with the center at the North Pole, the South Pole is the entirety of the circumference of the circle.">
 
 notes: there is nothing specifically wrong with putting a pole at the center of the map
 
