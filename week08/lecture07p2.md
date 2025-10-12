@@ -220,6 +220,9 @@ another?
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/vVX-PrBRtTY?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 notes:
+
+this is from the TV show "The West Wing"
+
 after watching this, it's useful to know that the Peters projection is actually flawed as a teaching tool because of how much it distorts the shapes of countries near the poles.
 
 **pause recording!**

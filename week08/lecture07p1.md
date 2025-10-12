@@ -3,7 +3,7 @@ title: Lecture 7.1 - Viz Engines
 layout: lecture
 description: >-
  A bit about Viz Engines
-date: 2024-10-14
+date: 2025-10-14
 ---
 
 # "Temperature Taking" Quiz
@@ -13,12 +13,7 @@ go over where this is!
 
 ---
 
-# "Temperature Taking" Quiz
-
-# Lab \#5
-
-notes: 
-**vibes check**
+## Due date for Lab 6 pushed back a few days
 
 ---
 
