@@ -4,13 +4,13 @@ visible: true
 icon: undraw_forming_ideas_0pav.svg
 notitle: true
 examples:
-  - filename: inClass_week08.ipynb
+  - filename: inClass_week09.ipynb
     type: ipynb
-    title: In Class Notebook, Week 8
+    title: In Class Notebook, Week 9
     description: In Class Notebook
   - filename: prep_notebook_week09.ipynb
     type: ipynb
-    title: Prep Notebook, Week 8
+    title: Prep Notebook, Week 9
     description: Prep Notebook
   - filename: prep_notebook_week08_fall2022
     type: iodidePast
@@ -49,13 +49,12 @@ Using Altair create interactive visualizations in Python and an introduction to 
 
 ## Optional reading list
 
- 1. <a href="https://vega.github.io/vega-lite/docs/">vega-lite docs</a>
- 2. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encoding.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
- 3. <a href="https://serialmentor.com/dataviz/directory-of-visualizations.html">FDV, Ch. 5: Directory of visualizations</a>
+1. <a href="https://vega.github.io/vega-lite/docs/">vega-lite docs</a> 
+2. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encodings/index.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
+3. <a href="https://clauswilke.com/dataviz/directory-of-visualizations.html">FDV, Ch. 5: Directory of visualizations</a>
 
  
 ## Extra Resources
- * [FiveThirtyEight](https://fivethirtyeight.com/)
  * [FiveThirtyEight datasets](https://github.com/fivethirtyeight/data)
  * [jsdelivr](https://www.jsdelivr.com/)
  * [vega-datasets](https://github.com/vega/vega-datasets/tree/master/data)
