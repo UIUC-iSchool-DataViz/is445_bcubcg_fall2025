@@ -32,8 +32,8 @@ their data.
 
 We will explore vega-lite through:
 1. [Altair](https://altair-viz.github.io/) in Python
-1. Then as a way to save plots for [Jekyll](https://jekyllrb.com/) webpages, hosted on our [GitHub pages](https://pages.github.com/)
-1. And then, we will be exploring this using [Streamlit](https://streamlit.io/) in [HuggingFace](https://huggingface.co/docs/hub/en/spaces-sdks-streamlit).
+1. Then, we will be exploring this using [Streamlit](https://streamlit.io/) in [HuggingFace](https://huggingface.co/docs/hub/en/spaces-sdks-streamlit).
+1. And then as a way to save plots for [Jekyll](https://jekyllrb.com/) webpages, hosted on our [GitHub pages](https://pages.github.com/)
 
 ---
 
@@ -44,8 +44,8 @@ their data.
 
 We will explore vega-lite through:
 1. [Altair](https://altair-viz.github.io/) in Python
-1. Then as a way to save plots for [Jekyll](https://jekyllrb.com/) webpages, hosted on our [GitHub pages](https://pages.github.com/)
-1. And then, we will be exploring this using [Streamlit](https://streamlit.io/) in [HuggingFace](https://huggingface.co/docs/hub/en/spaces-sdks-streamlit).
+1. Then, we will be exploring this using [Streamlit](https://streamlit.io/) in [HuggingFace](https://huggingface.co/docs/hub/en/spaces-sdks-streamlit).
+1. And then as a way to save plots for [Jekyll](https://jekyllrb.com/) webpages, hosted on our [GitHub pages](https://pages.github.com/)
 
 You can also use `vega-lite` directly with the online editor at:
 
@@ -80,8 +80,8 @@ Then we'll have a *very* hand-wavy intro to how javascript/web dev works
 Today, we are introducing the last few major tools that we will use: [vega-lite](https://vega.github.io/vega-lite/), which drives [Altair](https://altair-viz.github.io/index.html). 
 
 After this: 
+ * [Streamlit](https://streamlit.io/) + [Altair](https://altair-viz.github.io/index.html) (hosted on [HuggingFace](https://huggingface.co/docs/hub/en/spaces-sdks-streamlit), with JavaScript dev within as needed)
  * [Altair](https://altair-viz.github.io/index.html) + [Jekyll](https://jekyllrb.com/)
- *  [Streamlit](https://streamlit.io/) + [Altair](https://altair-viz.github.io/index.html) (hosted on [HuggingFace](https://huggingface.co/docs/hub/en/spaces-sdks-streamlit), with JavaScript dev within as needed)
 
 ---
 
