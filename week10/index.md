@@ -36,5 +36,6 @@ data:
 
 # More with Altair & Intro to Jekyll
 
+## Optional reading list
 
-
+1. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions/bindings_widgets.html#bindings-widgets">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html">Geographic plots</a>, and <a href="https://altair-viz.github.io/user_guide/transform/fold.html">Fold Transformations</a>
