@@ -3,16 +3,17 @@ title: Lecture 9.2 - Publishing with Jekyll Infrastructure
 layout: lecture
 description: >-
  Publishing your viz, vega-lite with Altair in a Jekyll page
-date: 2022-10-25
+date: 2025-10-27
 ---
 
 ## This Week/Last Week
 
-<img src='../week08/images/week08_thisweek.png'>
+<img src='../week09/images/week08_thisweek.png'>
 
 notes:
 
-Before break we did some stuff with altair.
+~~Before break we did some stuff with altair.~~
+Last time we did some stuff with Altair.
 
 We'll do a few more complex things with Altair, and then we'll start thinking about Jekyll so we can start publishing with it next week.
 
