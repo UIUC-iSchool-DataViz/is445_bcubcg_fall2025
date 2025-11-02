@@ -1,9 +1,9 @@
 ---
-title: Lecture 11.1 - Announcements & Reminders
+title: Lecture 10.1 - Announcements & Reminders
 layout: lecture
 description: >-
  A few announcements.
-date: 2025-04-02
+date: 2025-11-03
 
 ---
 
@@ -15,59 +15,18 @@ date: 2025-04-02
 
 ---
 
-## Groups for Final Projects now formed!
+## Groups for Final Projects -- due this Wednesday!
 
-* Updated on Canvas & PrairieLearn (so you can now see final project text on PL)
+* #find-a-final-project-group on Slack
 * **Be aware:** there are parts of Final Project Part 3 that are still done individually!
 
 ---
 
-<style>
-  img {
-  border-radius: 50%;
-}
-</style>
+## Prof. Naiman gone next week
 
-## Prof. Matt Turk: Guest Lecturer for upcoming weeks
-
-<div class="left">
-  <img src="https://ischool.illinois.edu/sites/default/files/styles/large_square/public/images/Turk-sq.jpg?itok=rejcEQau" width="50%">
-</div>
-
-<div float="right" text-align='left'>
-Matthew Turk is an assistant professor in the School of Information Sciences and also holds an appointment with the Department of Astronomy in the College of Liberal Arts and Sciences. His research is focused on how individuals interact with data and how that data is processed and understood.
-
-He also teaches another section of this class!
-</div>
-
-notes:
-porting of grades may be delayed a bit, but should be up-to-date on PL
-
----
-
-<style>
-  img {
-  border-radius: 50%;
-}
-</style>
-
-## Prof. Matt Turk: Guest Lecturer for upcoming weeks
-
-<div class="left">
-  <img src="https://ischool.illinois.edu/sites/default/files/styles/large_square/public/images/Turk-sq.jpg?itok=rejcEQau" width="50%">
-</div>
-
-<div float="right" text-align='left'>
-Matthew Turk is an assistant professor in the School of Information Sciences and also holds an appointment with the Department of Astronomy in the College of Liberal Arts and Sciences. His research is focused on how individuals interact with data and how that data is processed and understood.
-
-He also teaches another section of this class!
-</div>
-
-* My office hours are canceled, his will be by appointment
-* Slack is still the quickest way to get answers! (feel free to `@` Prof. Turk and/or the TA)
-
-notes:
-porting of grades may be delayed a bit, but should be up-to-date on PL
+* we *will* have class -- two of our TA's (Guangchun & Gaozheng) will have office hours in class
+* videos for what we would cover are uploaded (see "Week 12 Page" under Canvas Module for next week)
+* my Office Hours are canceled next week
 
 ---
 
@@ -80,10 +39,10 @@ this will be a little different for Jekyll and streamlit stuffs!
 
 ---
 
-## Homework 5 & 6 text have been slightly updated
+## Homework 5 & 6 -- you have to do one!
 
 notes:
 
-These assignments used to be flipped, so they have been updated a bit -- if you started these assignments early, make sure you double check your submission meets these requirements!
+We will talk more about HW5 later in class!
 
 **point this out!**

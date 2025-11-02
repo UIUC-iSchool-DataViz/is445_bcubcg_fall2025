@@ -1,5 +1,5 @@
 ---
-title: Lecture 12.2 - A bit more info about Streamlit + HuggingFace
+title: Lecture 11.2 - A bit more info about Streamlit + HuggingFace
 layout: lecture
 description: >-
  Streamlit HuggingFace Spaces

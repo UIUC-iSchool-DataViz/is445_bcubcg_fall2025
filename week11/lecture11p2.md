@@ -1,5 +1,5 @@
 ---
-title: Lecture 11.2 - Viz audience
+title: Lecture 10.2 - Viz audience
 layout: lecture
 description: >-
  Considerations of audience

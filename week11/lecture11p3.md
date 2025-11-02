@@ -1,5 +1,5 @@
 ---
-title: Lecture 11.3 - Streamlit & HuggingFace Introduction; VSCode
+title: Lecture 10.3 - Streamlit & HuggingFace Introduction; VSCode
 layout: lecture
 description: >-
  Streamlit, HuggingFace, VSCode ecosystem

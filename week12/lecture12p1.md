@@ -1,5 +1,5 @@
 ---
-title: Lecture 12.1 - Publishing & Validation
+title: Lecture 11.1 - Publishing & Validation
 layout: lecture
 description: >-
  More about publishing and validation, and Streamlit+Altair
