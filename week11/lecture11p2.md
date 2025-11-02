@@ -3,7 +3,7 @@ title: Lecture 10.2 - Viz audience
 layout: lecture
 description: >-
  Considerations of audience
-date: 2025-04-02
+date: 2025-11-03
 
 ---
 
@@ -374,6 +374,9 @@ Freytag's Pyramid
 <img src="images/freytag.png" width="700"/>
 
 notes:
+
+**start back recording!**
+
 A story needs setup, conflict, and resolution. One thing many novice storytellers forget is to have a resolution or ending. You need to wrap it up in a neat package!
 
 aside - "denouement" is one of my favorite words
@@ -413,6 +416,9 @@ What do you know about them?
  * Or is it literally EVERYBODY (web publishing)
 
 notes:
+
+**start back recording!**
+
 You can hone your narrative for certain audiences. If it's the broadest audience, like for journalism shared online, you need to keep in mind that there will be children, grandparents, experts, politicians, people with money, etc all in the audience.
 
 ---
@@ -490,7 +496,6 @@ This is different than viz for experts where you are typically talking about the
 
 ## Visualization for the Public
 
- * [Election Forecast - fivethirtyeight](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/)
  * [Online Dating - okCupid](https://theblog.okcupid.com/exactly-what-to-say-in-a-first-message-2bf680806c72)
  * [DiCaprio Love Life - reddit](https://www.reddit.com/r/dataisbeautiful/comments/azjti7/leonardo_dicaprio_refuses_to_date_a_woman_over_25/)
 
