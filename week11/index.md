@@ -71,3 +71,5 @@ Viz for self/peers/public.
  2. <a href="https://clauswilke.com/dataviz/telling-a-story.html">FDV, Ch. 29: Telling a story and making a point</a> 
  3. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a>
  4. <a href="https://streamlit.io/">Streamlit docs</a> - in particular the <a href="https://docs.streamlit.io/get-started/fundamentals/main-concepts">the Main Concepts </a> and  <a href="https://docs.streamlit.io/get-started/tutorials/create-an-app">Make an App</a> tutorials, and the docs for <a href="https://docs.streamlit.io/develop/api-reference/text">text</a>, <a href="https://docs.streamlit.io/develop/api-reference/layout">layout</a> and <a href="https://docs.streamlit.io/develop/api-reference/media/st.image">image</a> API elements
+
+ 

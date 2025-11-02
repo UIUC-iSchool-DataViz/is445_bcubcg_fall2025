@@ -22,6 +22,31 @@ date: 2025-11-03
 
 ---
 
+## Final Project
+
+There are three components, turned in the last three weeks of class.
+
+You will have three general components:
+
+1. Viz for Self (Due Nov 19 - individual)
+1. Viz for Peers (Due Dec 3 - group)
+1. Viz for Others (Due Dec 10 (for feedback), Dec 18 (final) - part group/part individual)
+
+Be aware:
+ * **NO** extensions for these assignments.
+ * There is a group-submission option (sign up open, closes this week!).
+
+note:
+just some reminders about the final project
+
+there are NO extensions available -- you can't use one of your HW extensions for these components
+
+also, parts 2 & 3 will be in a group, however you will pick your own groups AND you can be in a group of 1 if you want 
+
+**go to where groups are in student view on Canvas**
+
+---
+
 ## Prof. Naiman gone next week
 
 * we *will* have class -- two of our TA's (Guangchun & Gaozheng) will have office hours in class

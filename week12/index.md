@@ -36,7 +36,5 @@ Full corgi dataset available [here](corg/corgiData_countries_full_2020.json).
 
 ## Optional reading list
 
- 1. <a href="https://streamlit.io/">Streamlit docs</a>
- 2. <a href="https://huggingface.co/docs/hub/en/spaces-sdks-streamlit">Streamlit on HuggingFace</a>
- 3. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions.html#bindings-selections-conditions-making-charts-interactive">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>
- 4. <a href="https://medium.com/@imanuelyosi/deploy-your-streamlit-web-app-using-hugging-face-7b9cddb11148">This blog post for a walkthrough of deploying a Streamlit space on HuggingFace</a>
+ 1. <a href="https://streamlit.io/">Streamlit docs</a> - in particular the <a href="https://docs.streamlit.io/get-started/fundamentals/main-concepts">the Main Concepts </a> and  <a href="https://docs.streamlit.io/get-started/tutorials/create-an-app">Make an App</a> tutorials, and the docs for <a href="https://docs.streamlit.io/develop/api-reference/text">text</a>, <a href="https://docs.streamlit.io/develop/api-reference/layout">layout</a> and <a href="https://docs.streamlit.io/develop/api-reference/media/st.image">image</a> API elements
+ 2. <a href="https://huggingface.co/docs/hub/en/spaces-sdks-streamlit">Streamlit on HuggingFace</a> 
