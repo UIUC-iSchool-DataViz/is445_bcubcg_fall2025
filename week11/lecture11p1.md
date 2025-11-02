@@ -55,6 +55,12 @@ also, parts 2 & 3 will be in a group, however you will pick your own groups AND 
 
 ---
 
+## To turn off blogs on Jekyll
+
+![](images/commentOutBlog.png)
+
+---
+
 ## Where things are stored for prep/in class
 
 notes:
