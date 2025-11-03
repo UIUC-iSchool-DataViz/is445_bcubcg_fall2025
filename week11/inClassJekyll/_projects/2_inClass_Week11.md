@@ -23,15 +23,7 @@ We can use a vegachart HTML tag like so:
 
 
 
-```
-<div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
 
-<div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
-</div>
-```
 
 <!-- these are written in a combo of html and liquid --> 
 
