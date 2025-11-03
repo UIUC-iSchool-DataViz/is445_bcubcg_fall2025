@@ -1,6 +1,6 @@
 ---
 name: In Class, Vega/Altair Plots
-tools: [Python, HTML, vega-lite]
+tools: [Python, Altair, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
