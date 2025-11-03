@@ -5,12 +5,12 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : IS445 Jekyll Template 
+title               : Jill P. Naiman 
 description         : >-
-                      I am definitely not a corgi!
+                      Enjoying Data Viz every Monday!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          :                     # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
+repository          : jnaiman                    # Change to <your-username> for github OR, if that doesn't work <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -34,11 +34,11 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://i.redd.it/on-a-scale-of-1-10-how-derpy-is-she-v0-z8gtdwu5n5zb1.jpg?width=3024&format=pjpg&auto=webp&s=345e7e1d5b45f20c733e497a9f746f4cbd3a61da
+  name              : Jill P. Naiman
+  image             : https://media.tenor.com/8RcIoWTKYR4AAAAe/scuze-corgi.png
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : jnaiman@illinois.edu
 #  facebook          : your_username
   github            : jnaiman # JPN
 # gitlab            : your_username
@@ -51,9 +51,9 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 #  vimeo             : your_username
-  youtube           : your_channel_name
+#  youtube           : your_channel_name
 # keybase           : your_username
 
 
