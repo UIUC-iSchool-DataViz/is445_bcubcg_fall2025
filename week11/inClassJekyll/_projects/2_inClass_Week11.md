@@ -13,9 +13,9 @@ custom_js:
 
 # Plots Using Altair, A few Ways
 
+## Directly from Vega Editor
 
-
-We can use a vegachart HTML tag like so:
+I can download a JSON specification from the [Vega-Editor](https://vega.github.io/editor/) and save it in `assets/json` folder.
 
 
 
