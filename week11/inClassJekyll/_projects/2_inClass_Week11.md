@@ -17,9 +17,13 @@ custom_js:
 
 I can download a JSON specification from the [Vega-Editor](https://vega.github.io/editor/) and save it in `assets/json` folder.
 
-
-
 <vegachart schema-url="{{ site.baseurl }}/assets/json/fromEditor.json" style="width: 100%"></vegachart>
+
+## Using Altair to make the plot
+
+### With data included
+
+### With data remotely hosted
 
 
 
