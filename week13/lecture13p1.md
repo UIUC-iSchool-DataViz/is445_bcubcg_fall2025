@@ -1,5 +1,5 @@
 ---
-title: Lecture 13.1 - Announcements
+title: Lecture 12.1 - Announcements
 layout: lecture
 description: >-
  Short announcements before our guest lecture. 
