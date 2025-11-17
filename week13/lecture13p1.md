@@ -30,7 +30,7 @@ today we'll discuss a bit about how rendering 3D objects to make them look "phot
 
 You will have three general components:
 
-1. Viz for Self (Due Nov 19 - individual)
+1. Viz for Self (Due Nov 21 - individual)
 1. Viz for Peers (Due Dec 3 - group)
 1. Viz for Others (Due Dec 10 (for feedback), Dec 18 (final) - part group/part individual)
 
