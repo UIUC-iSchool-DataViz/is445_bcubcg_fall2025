@@ -6,14 +6,14 @@ notitle: true
 examples:
   - filename: In Class Streamlit Files
     type: iodide
-    title: In class Streamlit materials, Week 14
+    title: In class Streamlit materials, Week 15
     description: Updating storage of Streamlit files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_obuobg_spring2025/tree/master/week14/inClassStreamlit
+    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2025/tree/master/week15/inClassStreamlit
   - filename: Prep Streamlit Files
     type: iodide
-    title: Prep Streamlit materials, Week 14
+    title: Prep Streamlit materials, Week 15
     description: Updating storage of Streamlit files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_obuobg_spring2025/tree/master/week14/prepStreamlit
+    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2025/tree/master/week15/prepStreamlit
 data:
   - filename: mobility.csv
     type: dataLink
