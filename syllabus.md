@@ -279,6 +279,13 @@ Extra Credit assignments, and all parts of Final Project Part 3 (Part 3.1, 3.2, 
 * There will be NO late adds after 10th day
 * Students add the course after the start of class are responsible for submitting all assignments on time (even if assigned before they have added the class) -- this includes requesting a homework extension using the Extension Tool, if applicable  
 
+If there is an emergency (accident, hospitalization) requiring an absence of more than 2 classes,
+please reach out to the [Emergency Dean](https://odos.illinois.edu/community-of-
+care/emergency-dean) to provide appropriate documentation. If an extended illness or family
+issue arises requiring more than 2 class absences, please obtain an official [Absence Letter](https://odos.illinois.edu/resources/students/absence-letters). In case of emergency or extended
+absence, please reach out to the instructional team as soon as possible as we will need to
+strategize the best path forward, including, but not limited to modified assignments or a drop of
+the class.
 
 
 # About Your Instructor
