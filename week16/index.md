@@ -74,9 +74,10 @@ Final class, you made it!
 5. VAD Ch. 9: Arrange Networks and Trees 
 6. VAD, Ch. 13.4.3.1: Reduce Items and Attributes 
 7. VAD, Ch. 6: Rules of Thumb 
-8. [FDV, Ch. 28: Choosing the right visualization software](https://serialmentor.com/dataviz/choosing-visualization-software.html) 
-9. [FDV, Ch. 26: Don't go 3D](https://serialmentor.com/dataviz/no-3d.html) 
-10. [FDV, Ch. 25: Avoid line drawings](https://serialmentor.com/dataviz/avoid-line-drawings.html)
+8. [FDV, Ch. 28: Choosing the right visualization software](https://clauswilke.com/dataviz/choosing-visualization-software.html) 
+9. [FDV, Ch. 26: Don't go 3D](https://clauswilke.com/dataviz/no-3d.html) 
+10. [FDV, Ch. 25: Avoid line drawings](https://clauswilke.com/dataviz/avoid-line-drawings.html)
+
 
 Also, here is a slightly more in-depth explanation of path/ray tracing:
 
