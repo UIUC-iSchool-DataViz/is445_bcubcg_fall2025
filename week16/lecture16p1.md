@@ -32,7 +32,7 @@ Due dates:
  1. Final chance to resubmit your Part 3 (3.4) -- Dec 18
  1. Submit video about final project -- Dec 18
  
-**Please be aware these are hard deadlines -- no extensions available**
+**Please be aware these are hard deadlines -- no extensions, no late assignments available**
  
 note:
 go to pages!!
