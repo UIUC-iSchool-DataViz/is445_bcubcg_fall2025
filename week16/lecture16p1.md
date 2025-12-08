@@ -142,7 +142,7 @@ we'll also "talk" more about this in Week 15 with some pre-recorded materials an
 
 ## Announcements and Reminders: Extra Credit Assignments
 
-*No extensions.*
+*No extensions, no late assignments.*
 
 *MAX Homework score is 40%.*
 
